@@ -1,0 +1,743 @@
+{
+  "images/endo/palopegteriparatide.png": {
+    "title": "Palopegteriparatide — The Paleo-Park Skydive",
+    "tags": [
+      "palopegteriparatide",
+      "endo"
+    ],
+    "notes": "First-in-class once-daily subcutaneous PTH(1-34) replacement for hypoparathyroidism; a pegylated prodrug giving 24-hour sustained PTH release.\n\nANCHORS:\n- Pal strapping a Peg-leg Pterodactyl into a Parachute = **Palopegteriparatide (Pal + Peg + Ptero + Para + -tide; primary name anchor)**\n- Discarded button-less PthD coat in the trash = **Indicated for Hypoparathyroidism (absent PTH; palopegteriparatide is the replacement)**\n- Pal-Peg-Ptero-Parachute taking flight = **Pegylated prodrug of PTH 1-34 (teriparatide; transient linker attaches PEG to temporarily inactivate it at injection site)**\n- Syringe Submarine docking with the harness = **Subcutaneous (SC) injection, once daily (prefilled pen device)**\n- Full-Day Clock (24) slowly and continuously unwinding = **24-hour sustained release of active PTH (transient linker cleaves progressively; distinguishes from short-acting native PTH bolus)**\n- Pterodactyl tossing Calci-Tron robot overboard = **Reduces/eliminates need for active Vitamin D / calcitriol (PTH replacement restores endogenous vitamin D activation)**\n- Pterodactyl tossing Calci-Yum tubs overboard = **Reduces/eliminates need for calcium supplementation (PTH replacement restores renal calcium reabsorption)**\n- Overflowing Calci-Yum Mountain from the dropped tubs = **Hypercalcemia (most important AE; requires Ca2+ monitoring and dose titration)**\n- Aching Skeleton tourist gripping cracking knee joints = **Arthralgia / joint pain (commonly reported AE)**\n"
+  },
+  "images/allergy/nonallergic-rhinitis.png": {
+    "title": "Nonallergic Rhinitis — The Sensitive Chef's Kitchen",
+    "tags": [
+      "nonallergic",
+      "rhinitis",
+      "allergy"
+    ],
+    "notes": "Chronic rhinitis without an allergic cause (negative IgE/skin test); adult-onset clear rhinorrhea triggered by irritants, cold air, or spicy food.\n\nANCHORS:\n- \"No Pollen/No Pets\" Zone sign (crossed-out flower and cat) = **No allergen (negative skin test/IgE; nonallergic by definition)**\n- Clear Water Spigot dripping = **Clear rhinorrhea (hallmark symptom; watery, profuse nasal discharge)**\n- \"Late Shift\" clock showing Age 20+ = **Adult onset (nonallergic rhinitis typically develops in adulthood)**\n- Spicy Pepper Pot = **Gustatory Rhinitis (triggered by spicy/hot food; cholinergic/trigeminal reflex mechanism)**\n- Open Freezer Door blasting cold dry air = **Vasomotor Rhinitis / cold air trigger (autonomic dysregulation -> vascular engorgement and mucus secretion)**\n- Pungent Cleaning Spray (bleach/perfume) = **Irritant Rhinitis (strong odors, chemicals, smoke -> direct mucosal irritation)**\n- Amazon \"A-to-Z Arrow\" spray bottle = **Azelastine (intranasal antihistamine; first-line for NAR; A to Z = Azelastine)**\n- Victor Oladipo sous-chef in basketball jersey = **Olopatadine (intranasal antihistamine; dual H1 blocker + mast cell stabilizer)**\n- Flute-Playing Titan = **Fluticasone (intranasal corticosteroid)**\n- \"MoMA\" Museum-Book Titan = **Mometasone (intranasal corticosteroid)**\n- Buddha-Pose Titan = **Budesonide (intranasal corticosteroid)**\n- iPhone = **Ipratropium (intranasal anticholinergic; targets rhinorrhea ONLY - best for gustatory rhinitis)**\n"
+  },
+  "images/endo/secondary-causes-of-osteoporosis.png": {
+    "title": "Secondary Causes of Osteoporosis — The Brittle Bone",
+    "tags": [
+      "secondary",
+      "causes",
+      "of",
+      "osteoporosis",
+      "endo"
+    ],
+    "notes": "Bone loss caused by an identifiable underlying condition or medication rather than age/menopause.\n\nANCHORS:\n- Swiss Cheese Ostrich in a Porous vest = **Osteoporosis (Ostrich + Porous; holey body = decreased bone density)**\n- Moon-shaped spotlight with sticky Glue-Cords tripping the Ostrich = **Glucocorticoids (most common cause; Moon face SE)**\n- Director's spinning Red Thyroid-shaped Bowtie = **Hyperthyroidism (elevated thyroid hormone -> increased bone turnover -> bone loss)**\n- Director's PthD jacket with 4 glowing buttons = **Hyperparathyroidism (elevated PTH -> osteoclast activation -> bone resorption)**\n- Locked Wheat Catering Truck = **Malabsorption (celiac disease, Crohn's, gastric bypass -> impaired Ca2+ and Vitamin D absorption)**\n- Broken Mars and Venus statues missing core parts = **Hypogonadism (low estrogen in females, low testosterone in males)**\n- Crab stunt-actor in \"M\" cape punching holes in the floor = **Multiple Myeloma (M-spike; lytic bone lesions; RANKL-driven osteoclast activation)**\n- Phoenix Toy dropped on Ostrich's foot = **Phenytoin (CYP induction -> decreased Vitamin D)**\n- Heavy Steel Pin dropped on Ostrich's foot = **Heparin (long-term use activates osteoclasts)**\n- Proton Pumper superhero spraying green foam = **PPIs (reduce gastric acid -> impaired Ca2+ absorption)**\n- Glamorous Actress pinching her nose at a bad aroma = **Aromatase Inhibitors (block estrogen synthesis -> rapid bone loss in breast cancer patients)**\n- Spilled Alcohol bottle + heavy Smoke Machine = **Alcohol + Smoking (lifestyle risk factors)**\n"
+  },
+  "images/cardio/finerenone-fine-arts.png": {
+    "title": "Finerenone — The Finer-enone Fine Arts Gallery",
+    "tags": [
+      "finerenone",
+      "fine",
+      "arts",
+      "cardio"
+    ],
+    "notes": "Non-steroidal mineralocorticoid receptor antagonist for CKD associated with type 2 diabetes, with cardiorenal benefit and fewer hormonal effects than spironolactone.\n\nANCHORS:\n- Salt shaker with red X over a star (No-Star) = **Non-steroidal MRA (unlike spironolactone/eplerenone which are steroidal)**\n- High-Precision Fine-Tuning Knobs = **Higher MR selectivity and stronger binding affinity (more precise than eplerenone)**\n- Sugar-Coated Kidney Sculpture = **CKD associated with Type 2 Diabetes (primary indication)**\n- Heart-Shaped Frame around the kidney = **Cardiovascular benefits (reduces HF hospitalization and CV death)**\n- FIDELIO opera poster = **FIDELIO-DKD trial (kidney outcomes)**\n- FIGARO opera poster = **FIGARO-DKD trial (cardiovascular outcomes)**\n- Spilled banana basket + Caution sign = **Hyperkalemia (most frequent adverse event; monitor K+)**\n- Potassium levels gauge (orange/elevated) = **Hyperkalemia risk requiring monitoring**\n- Chrome Bumper keychain on curator's belt = **CYP3A4 substrate (strong CYP3A4 inhibitors contraindicated)**\n- Smooth male statue (no chest-wart) = **No gynecomastia or sexual dysfunction (non-steroidal structure)**\n"
+  },
+  "images/heme-onc/pd-1-pd-l1-inhibitors.png": {
+    "title": "PD-1/PD-L1 Inhibitors",
+    "tags": [
+      "pd",
+      "1",
+      "l1",
+      "inhibitors",
+      "heme-onc"
+    ],
+    "notes": "Immune checkpoint inhibitors that block PD-1/PD-L1 to restore T-cell anti-tumor activity, with immune-related adverse effects.\n\nANCHORS:\n- Buffy (Slayer) = **T-Cell**\n- Dracula (Vampire) = **Tumor**\n- Dracula's Fangs = **PD-L1 Ligand (on Tumor)**\n- Buffy's Neck = **PD-1 Receptor (on T-Cell)**\n- Durex Condom on Fangs = **Durvalumab**\n- Attila the Hun = **Atezolizumab**\n- Owl = **Avelumab**\n- Perm Wig covering neck = **Pembrolizumab**\n- Knife Collar = **Nivolumab**\n- Semi-Truck shield = **Cemiplimab**\n- Graveyard Fog = **Pneumonitis**\n- Slippery Mud = **Colitis**\n- Flaming Bowtie = **Thyroiditis**\n- Peach Pit to forehead = **Hypophysitis (Pituitary inflammation)**\n"
+  },
+  "images/derm/discoid-lupus-erythematosus.png": {
+    "title": "Discoid Lupus Erythematosus — The Disco Lupus",
+    "tags": [
+      "discoid",
+      "lupus",
+      "erythematosus",
+      "derm"
+    ],
+    "notes": "Chronic scarring cutaneous lupus with discoid plaques, usually ANA-negative and limited to skin.\n\nANCHORS:\n- \"Disco Lupus\" Club sign = **Discoid Lupus Erythematosus (DLE)**\n- Wolf DJ = **Lupus (lupus = Latin for wolf)**\n- Coin-shaped Vinyl Records = **Discoid plaques (well-demarcated, round lesions)**\n- Pale Center / Dark Rim on Record = **Atrophy (central) + Hyperpigmentation (rim)**\n- DJ's Bald Spots (under headphones) = **Scarring Alopecia (permanent)**\n- Carpet Tack Needle = **Follicular Plugging (\"Carpet Tack\" sign)**\n- Ears as Common Site label = **Ears are a predilection site for DLE**\n- Vampire Bouncer (umbrella, blocking sun) = **Photosensitivity (UV triggers lesions)**\n- \"ANA Negative\" VIP List = **Usually ANA negative (unlike SLE)**\n- Mosquito Zapper / bug lamp = **Antimalarials / Hydroxychloroquine (first-line systemic)**\n- Cream Pump on bar = **Topical Steroids (first-line local treatment)**\n"
+  },
+  "images/endo/autoimmune-polyglandular-syndromes.png": {
+    "title": "Autoimmune Polyglandular Syndromes (APS 1 & 2) — The AIRE-Conditioned TikTok Studio",
+    "tags": [
+      "autoimmune",
+      "polyglandular",
+      "syndromes",
+      "endo"
+    ],
+    "notes": "APS-1 (childhood, AIRE mutation: candidiasis-hypoparathyroidism-Addison's) vs APS-2/Schmidt (adult, HLA-linked: Addison's + thyroid/T1DM).\n\nANCHORS:\n- Broken \"AIRE\" AC unit sparking = **AIRE gene mutation (autoimmune regulator; AR inheritance; loss of clonal deletion of autoreactive T cells)**\n- AIRE unit blowing through Thyme Garden filter = **Thymus (site of defective negative T-cell selection)**\n- Patchy white frost easily scraped off the floor = **Chronic Mucocutaneous Candidiasis (first manifestation of APS-1)**\n- Ph.D. Paleontologist falling as his Parrot Tie falls off = **Hypoparathyroidism (low PTH -> hypocalcemia; second component of APS-1 triad)**\n- Addison Rae cameo with TikTok Tan in background = **Addison's Disease (primary adrenal insufficiency; third component of APS-1)**\n- Schmidt the adult repairman working on the mainframe = **Schmidt Syndrome (APS-2; adult-onset; HLA-DR3/DR4; most common APS type)**\n- Addison Rae as center-stage star eating pretzels = **Addison's Disease required for APS-2 (obligate defining component; salt craving)**\n- Vibrating Thyroid-shaped bowtie on Schmidt = **Autoimmune thyroid disease (Hashimoto's or Graves'; most common APS-2 association)**\n- Spilled Sugar bag on the bone table = **Type 1 Diabetes Mellitus (third APS-2 component)**\n"
+  },
+  "images/endo/fgf-23.png": {
+    "title": "FGF-23 — The Bone-Building Gym",
+    "tags": [
+      "fgf",
+      "23",
+      "endo"
+    ],
+    "notes": "Bone-derived phosphaturic hormone that lowers phosphate and calcitriol; elevated in CKD-MBD, XLH, and tumor-induced osteomalacia.\n\nANCHORS:\n- Bone-Building Gym + Bone Dumbbells = **Produced by osteocytes/osteoblasts**\n- Frog-23 = **FGF-23 (Fibroblast Growth Factor 23)**\n- Blue Kidney Hoop = **Target organ: kidney (proximal tubule)**\n- Kicking over Soda cans = **Decreases phosphate reabsorption (phosphaturia)**\n- Turning off Sun-lamp = **Inhibits 1-alpha-hydroxylase (decreases calcitriol)**\n- Clogged Kidney Drain + Frog Pile = **Elevated FGF-23 in CKD (compensatory then fails)**\n- Soda/Sun Steam Vent = **Stimulated by high phosphate and high calcitriol**\n"
+  },
+  "images/endo/gip.png": {
+    "title": "GIP — The K-Cell Kitchen",
+    "tags": [
+      "gip",
+      "endo"
+    ],
+    "notes": "Glucose-dependent insulinotropic polypeptide, an incretin from duodenal K cells; basis of tirzepatide's dual GIP/GLP-1 agonism.\n\nANCHORS:\n- K-Cell Kitchen in the Duo-Denim district = **GIP (Glucose-dependent Insulinotropic Polypeptide) secreted by K cells of the duodenum/jejunum**\n- Sugar, Meat, and Butter arriving at door = **glucose, amino acids, and fatty acids are the stimuli for GIP release**\n- The Grip (primary anchor character) = **GIP; springs into action only when nutrients are on the table**\n- Grip unrolls massive Insulation rolls = **GIP stimulates insulin secretion; glucose-dependent (only works when blood glucose is elevated)**\n- Dr. Pepper 4-pack with scissors in corner = **DPP-4 (Dipeptidyl Peptidase-4) rapidly degrades GIP; DPP-4 inhibitors (gliptins) preserve incretin activity**\n- Grip's Biphasic Glue-Gun = **context-dependent glucagon regulation (suppresses glucagon in hyperglycemia, may stimulate in hypoglycemia)**\n- Lipstick priming Fatty Hams = **GIP stimulates Lipoprotein Lipase (LPL) in adipose tissue -> promotes fat/lipid storage**\n- Grip helps Osteo-Builder fix furniture = **GIP has potential anabolic effects on bone (GIP receptor on osteoblasts)**\n- Two-for-One coupon with Gulp (GLP-1) = **tirzepatide; dual GIP and GLP-1 receptor agonist; major weight loss and T2DM treatment**\n"
+  },
+  "images/rheum/igg4-related-disease.png": {
+    "title": "IgG4-Related Disease (IgG4-RD) — Iggy's 4-Star",
+    "tags": [
+      "igg4",
+      "related",
+      "disease",
+      "rheum"
+    ],
+    "notes": "Systemic fibro-inflammatory disease driven by IgG4+ plasma cells; storiform fibrosis, obliterative phlebitis, dramatic steroid response.\n\nANCHORS:\n- \"Iggy's 4-Star\" hotel sign = **IgG4-Related Disease (IgG4-RD)**\n- Woven mat floor (cartwheel/storiform pattern) = **Storiform fibrosis (pathognomonic histologic pattern)**\n- Purple shirts worn by all staff = **IgG4+ plasma cell infiltrate (IgG4:IgG ratio >40%)**\n- Clogged blue drains = **Obliterative phlebitis (veins obliterated by inflammatory infiltrate; pathognomonic)**\n- Sausage machine in the kitchen = **Autoimmune Pancreatitis Type 1 / AIP-1 (diffusely enlarged sausage pancreas)**\n- Stiff yellow pipes = **IgG4-SC (biliary strictures; PSC-like)**\n- Chipmunk cheeks on the bellhop = **Mikulicz Disease (bilateral painless salivary and lacrimal gland swelling)**\n- Cement poured over suspenders/straps = **Retroperitoneal fibrosis (encases ureters -> hydronephrosis)**\n- Wooden collar on the concierge = **Riedel's Thyroiditis (woody hard thyroid; invasive fibrosis)**\n- Moon lamp in the lobby = **Glucocorticoids / steroids (first-line; dramatic response is a hallmark)**\n- Ritzy tuxedo (Rituximab) hanging in the coat room = **Rituximab (anti-CD20; refractory or relapsing disease)**\n"
+  },
+  "images/rheum/adult-onset-stills-disease.png": {
+    "title": "Adult-Onset Still's Disease — Still's Gang Distillery",
+    "tags": [
+      "adult",
+      "onset",
+      "stills",
+      "disease",
+      "rheum"
+    ],
+    "notes": "Seronegative autoinflammatory disease with quotidian fever, salmon-pink rash, arthritis, and very high ferritin.\n\nANCHORS:\n- \"Still's Gang Distillery\" wooden sign = **Adult-Onset Still's Disease (AOSD)**\n- Copper Still (central moonshine pot) = **Reinforces Still's Disease**\n- Burning Pot labeled \"Quotidian Fever\" / thermometer >39C = **Quotidian Fever (daily spike, returns to baseline)**\n- Salmon-Pink Barrel labeled \"Salmon-Pink Rash\" = **Evanescent Salmon-Pink Rash (appears with fever spikes)**\n- \"Broken Knees\" Guy clutching knees = **Arthritis / Arthralgia (major criterion)**\n- The Choked Guy clutching throat = **Sore Throat / Pharyngitis (early differentiating symptom)**\n- Collapsing Iron Shelf of \"Silver Ferritin\" bars = **Extremely High Ferritin (>1000 ng/mL; often 3,000-10,000+)**\n- Spilled Milk bucket = **Leukocytosis (high WBC, predominantly neutrophils)**\n- \"No ANAs or REFs\" door sign = **Negative ANA and RF (seronegative diagnosis of exclusion)**\n- Moon-Faced Firefighter = **Corticosteroids (high-dose; moon facies side effect)**\n- \"NSAID Extinguisher\" fire extinguisher = **NSAIDs (Indomethacin) - first-line treatment**\n- Guard with Two Interlocked Guns = **IL-1 Inhibitors (Anakinra) - refractory cases**\n- Guard with bundle of sticks labeled \"IL-6\" = **IL-6 Inhibitors (Tocilizumab) - biologic option**\n"
+  },
+  "images/endo/gnrh-antagonists.png": {
+    "title": "GnRH Antagonists — The Pituitary Gate Lock",
+    "tags": [
+      "gnrh",
+      "antagonists",
+      "endo"
+    ],
+    "notes": "-relix agents giving immediate LH/FSH suppression without testosterone flare; used in ART/IVF and advanced prostate cancer.\n\nANCHORS:\n- Relix Gate (ancient rusted relics) = **-RELIX class suffix (Ganirelix, Cetrorelix, Degarelix)**\n- Immediate Red Light (no runners get through) = **Immediate LH/FSH suppression, no testosterone flare**\n- GnRH Signal runners = **Pulsatile GnRH signals from hypothalamus**\n- Crown (knocked down) = **LH and FSH suppressed**\n- Ganon-Relix / Ganondorf with dark power = **Ganirelix (ART - prevents premature LH surge)**\n- Scepter Titan (golden scepter) = **Cetrorelix (IVF - prevents premature ovulation)**\n- Dagger Titan (massive dagger) = **Degarelix (advanced prostate cancer - rapid castration)**\n- Clean Lockdown / No Testosterone Riot banner = **No testosterone flare on initiation**\n- Metastatic bone context = **No flare prevents spinal cord compression or pain crisis**\n"
+  },
+  "images/rheum/leukocytoclastic-vasculitis.png": {
+    "title": "Leukocytoclastic Vasculitis — Luke's Cyclo-Blast",
+    "tags": [
+      "leukocytoclastic",
+      "vasculitis",
+      "rheum"
+    ],
+    "notes": "Small-vessel (postcapillary venule) vasculitis with palpable purpura and neutrophilic nuclear dust on biopsy.\n\nANCHORS:\n- \"Luke's Cyclo-Blast\" Spin Class sign = **Leukocytoclastic Vasculitis (LCV)**\n- Small, cramped spin room = **Small-vessel vasculitis (postcapillary venules)**\n- Bike tires disintegrating into black dust = **Nuclear Dust (Leukocytoclasia / Karyorrhexis)**\n- \"New Pro\" Riders (aggressive cyclists) = **Neutrophils - primary infiltrating cell type**\n- Cracked Pink Plaster on walls = **Fibrinoid Necrosis of vessel walls**\n- Red \"Mud\" Splatters on Shins = **Palpable Purpura (raised, non-blanching)**\n- Mud only on lower legs/ankles = **Gravity-dependent distribution**\n- Scratching Riders = **Lesions can be pruritic or painful**\n- \"Drug-Free Zone\" (crossed-out pills) = **Medications (Antibiotics, NSAIDs, Diuretics)**\n- \"Sick Bug\" Mascot = **Infections (URIs/Strep, Hepatitis B/C)**\n- \"Auto-Repair\" Ad = **Autoimmune (SLE, RA, Sjogren's)**\n- Lost & Found Box with \"?\" = **Idiopathic (up to 50% of cases)**\n- \"Punch Card\" for Entry = **Punch Biopsy (gold standard)**\n- Clock set to 48 Hours = **Biopsy must be done on fresh lesion (<48 hours)**\n- Water Cooler (urine cup shape) = **Urinalysis (UA) - rule out renal involvement**\n- Riders with legs up the wall = **Leg Elevation**\n- Throwing Water Bottle in Trash = **Stop the Offending Agent (primary treatment)**\n- \"Cool\" Ice Packs = **Colchicine or Dapsone (for refractory skin disease)**\n"
+  },
+  "images/rheum/milwaukee-shoulder-syndrome.png": {
+    "title": "Milwaukee Shoulder Syndrome (BCP Crystal Disease) — The Milwaukee Drill",
+    "tags": [
+      "milwaukee",
+      "shoulder",
+      "syndrome",
+      "rheum"
+    ],
+    "notes": "Basic calcium phosphate (hydroxyapatite) crystal arthropathy causing destructive shoulder disease in elderly women.\n\nANCHORS:\n- Milwaukee Drill (red, prominent logo) = **Milwaukee Shoulder Syndrome (classic presentation of BCP crystal disease)**\n- Amorphous sludge pouring from the drill (not jagged or crystalline) = **Amorphous crystal morphology (non-crystalline clumps; unlike needle-shaped urate or rhomboid CPPD)**\n- Cloudy white dust puff around the drill bit = **\"Cloud-like\" periarticular calcification on X-ray**\n- \"Polarized Lenses Useless\" sign posted on the wall = **Non-birefringent (BCP crystals invisible under polarized light)**\n- Co-worker spraying \"Alizarin Red\" dye = **Alizarin Red stain required to visualize calcium deposits**\n"
+  },
+  "images/rheum/anti-synthetase-syndrome.png": {
+    "title": "Anti-Synthetase Syndrome — The Auto-Synthetase Repair Shop",
+    "tags": [
+      "anti",
+      "synthetase",
+      "syndrome",
+      "rheum"
+    ],
+    "notes": "Anti-Jo-1 (tRNA synthetase) myositis with mechanic's hands, interstitial lung disease, and Raynaud's.\n\nANCHORS:\n- Joe the Mechanic = **Anti-Jo-1 antibody**\n- \"JO-1\" Shop Manual = **Jo-1 autoantibody (hallmark of Anti-Synthetase Syndrome)**\n- Synthetase Belt Buckle = **tRNA Synthetase (target antigen)**\n- Aza-meralda with A-Z suitcase = **Azathioprine**\n- Microfunnel Worker = **Mycophenolate mofetil**\n- Thick cracked fingers = **Mechanic's Hands (hyperkeratosis)**\n- Honeycombed Air Filter = **Interstitial Lung Disease (ILD)**\n- Blue Ice Bucket = **Raynaud's Phenomenon**\n- Moon Face Oil Cans = **Glucocorticoids (Moon Facies side effect)**\n- Immunosuppressed Cane = **Immunosuppressant drug class**\n- Empty Birdseed Bag = **Bone Marrow Suppression (azathioprine)**\n- Pancreas Sponge wrung into hot pan = **Pancreatitis (azathioprine)**\n"
+  },
+  "images/derm/subacute-cutaneous-lupus-erythematosus.png": {
+    "title": "Subacute Cutaneous Lupus Erythematosus (SCLE) — The U.S.S. Sub-Acute",
+    "tags": [
+      "subacute",
+      "cutaneous",
+      "lupus",
+      "erythematosus",
+      "derm"
+    ],
+    "notes": "Photosensitive non-scarring cutaneous lupus (annular/papulosquamous) with anti-Ro/SSA antibodies; ~50% have SLE.\n\nANCHORS:\n- U.S.S. Sub-Acute Submarine = **Subacute Cutaneous Lupus Erythematosus (SCLE)**\n- Wolf Captain = **Lupus (wolf iconography unifies all lupus subtypes)**\n- Ring-shaped marks on the captain's torso = **Annular variant (red rings with central clearing; photodistributed)**\n- Scaly patches on the captain's torso = **Papulosquamous/Psoriasiform variant**\n- Shawl distribution (shoulders, upper back, neck, V of chest) = **Photodistributed rash (V-sign and shawl sign)**\n- Clean/clear face (no mask, unlike the ACLE wolf) = **Mid-face often SPARED (key distinction from ACLE's malar rash)**\n- Non-Scarring banner on the hull = **Non-scarring (heals with dyspigmentation, not scar; vs DLE which scars)**\n- SSA Robot crewmate helping the captain = **Anti-Ro/SSA antibodies (positive ~70-90%; hallmark serology)**\n- Angry sun overhead = **Photosensitivity (UV light = primary trigger for flares)**\n- Pill bottle handed over by the SSA robot = **Drug-induced SCLE (HCTZ most common; also PPIs, CCBs, terbinafine)**\n"
+  },
+  "images/rheum/anakinra.png": {
+    "title": "Anakinra — Anna-Kin the Warrior",
+    "tags": [
+      "anakinra",
+      "rheum"
+    ],
+    "notes": "Recombinant IL-1 receptor antagonist blocking IL-1 alpha/beta; used in RA, Still's/sJIA, and CAPS.\n\nANCHORS:\n- \"Anna-Kin\" the Warrior (dark hooded figure) = **Anakinra (drug name anchor)**\n- Mechanical Right Hand = **IL-1 Receptor Antagonist mechanism (blocks IL-1 binding)**\n- Assassin firing Two Interlocked Guns / Warrior blocks with force field = **Blocks both IL-1 alpha and IL-1 beta signaling**\n- Rusty golden droid with stiff joints crouched behind warrior = **Rheumatoid Arthritis (RA)**\n- Droid guarding a bubbling copper pot (a \"Still\") = **Adult-Onset Still's Disease (AOSD) & Systemic JIA (sJIA)**\n- Glowing blue ice chest labeled \"CAPS\" = **Cryopyrin-Associated Periodic Syndromes (CAPS) - NOMID/CINCA, Muckle-Wells, FCAS**\n- Cracked white stormtrooper helmets on the ground = **Neutropenia (serious SE; monitor ANC)**\n- Painful red swollen arm patch (missing armor piece) = **Injection site reaction (most common SE; up to 71%)**\n- Biohazard hologram warning sign = **Risk of serious infection (avoid live vaccines; do NOT combine with TNF inhibitors)**\n"
+  },
+  "images/id/capnocytophaga-canimorsus.png": {
+    "title": "Capnocytophaga canimorsus — Captain Canny's Cursed Bite",
+    "tags": [
+      "capnocytophaga",
+      "canimorsus",
+      "id"
+    ],
+    "notes": "Gram-negative capnophilic rod from dog bites/licks causing fulminant sepsis and DIC, especially in asplenic patients.\n\nANCHORS:\n- Captain in cannon smoke = **Capnocytophaga (capnophilic = CO2-loving)**\n- Vicious dog bite = **Canimorsus (Latin: dog bite); transmitted via dog bites or licks**\n- Red sunset sky = **Gram-negative fusiform rod**\n- Spleen-less parrot (surgical scar) = **Asplenia / post-splenectomy (#1 risk for fulminant sepsis)**\n- Empty rum bottles = **Alcoholism / liver disease (2nd major risk factor)**\n- Purple skin patches = **Purpura fulminans (DIC)**\n- Blackening fingertips = **Peripheral / symmetrical gangrene**\n- Pale collapsing captain = **Septic shock (rapid, fulminant)**\n- Slow turtle = **Slow growth on culture (5-7 days); warn the lab**\n- Pencil sword = **Penicillin G (drug of choice)**\n- Three axes = **3rd-generation cephalosporins (e.g., Ceftriaxone)**\n- Beta-lactamase shield = **Piperacillin-tazobactam (empiric beta-lactamase coverage)**\n"
+  },
+  "images/pharm/cyp2d6-inhibitors.png": {
+    "title": "CYP2D6 Inhibitors — The 2-Die-6 Grinder Factory",
+    "tags": [
+      "cyp2d6",
+      "inhibitors",
+      "pharm"
+    ],
+    "notes": "Drugs (quinidine, paroxetine, fluoxetine, bupropion) that block CYP2D6, impairing activation of prodrugs like tamoxifen and codeine.\n\nANCHORS:\n- 2-Die-6 Grinder machine = **CYP2D6 enzyme**\n- Raw to Active conveyor belt = **Prodrug activation (drug metabolism)**\n- Queen with scepter in the gears = **Quinidine (potent CYP2D6 inhibitor)**\n- Parrot pecking the power cord = **Paroxetine (strong CYP2D6 inhibitor)**\n- Fly Out Pilot crashing luggage cart into intake = **Fluoxetine (CYP2D6 inhibitor)**\n- Pro Baller slamming basketball into exhaust pipe = **Bupropion (CYP2D6 inhibitor)**\n- Frozen raw Tamales on conveyor = **Tamoxifen (prodrug; needs CYP2D6 -> Endoxifen for breast cancer)**\n- Unscanned Barcode package = **Codeine (prodrug; needs CYP2D6 -> Morphine for pain relief)**\n"
+  },
+  "images/rheum/dish-forestiers-disease.png": {
+    "title": "DISH / Forestier's Disease — The Dirty Dish Pit",
+    "tags": [
+      "dish",
+      "forestiers",
+      "disease",
+      "rheum"
+    ],
+    "notes": "Diffuse idiopathic skeletal hyperostosis - non-inflammatory flowing ossification of the anterior longitudinal ligament with preserved discs and spared SI joints.\n\nANCHORS:\n- The Dirty Dish Pit kitchen = **DISH / Forestier's Disease**\n- Candle wax dripping and hardening over the FRONT of the plate stack = **Ossification of the Anterior Longitudinal Ligament (ALL); flowing candle wax appearance**\n- Clean, fluffy yellow sponges clearly visible between each plate = **Preserved disc heights (unlike DDD; key differentiator)**\n- Pulsating red water hose running down the LEFT side; wax only drips on the RIGHT = **Right-sided thoracic predominance (aorta on left prevents ossification)**\n- Loose, rusty but MOBILE faucet handles (at the SI joint position) = **SI joints SPARED (key differentiator from Ankylosing Spondylitis; non-inflammatory)**\n- Giant spilled jar of sugar + tub of lard next to the sink = **Metabolic syndrome association (Type 2 Diabetes + obesity)**\n- Dishwasher coughing and clutching throat as the plate stack leans into the neck = **Dysphagia (large cervical osteophytes can compress the esophagus)**\n- Grumpy elderly man as the dishwasher = **Demographics (most common in men >50)**\n"
+  },
+  "images/allergy/allergic-rhinitis.png": {
+    "title": "Allergic Rhinitis — The Haystack Festival",
+    "tags": [
+      "allergic",
+      "rhinitis",
+      "allergy"
+    ],
+    "notes": "IgE-mediated rhinitis with allergic shiners and nasal salute; treated with intranasal antihistamines, steroids, and montelukast.\n\nANCHORS:\n- Dark Bruised Spectacles = **Allergic Shiners (infraorbital venostasis)**\n- Dirty Glove / upward nose wipe = **Allergic Salute (transverse nasal crease)**\n- Amazon \"A to Z\" Spray Bottle = **Azelastine (intranasal H1 blocker)**\n- Victor Oladipo Fan with fan = **Olopatadine (intranasal H1 blocker)**\n- Flute-Playing Titan = **Fluticasone (intranasal steroid)**\n- Moma Cookbook Titan = **Mometasone (intranasal steroid)**\n- Buddha Meditation Titan = **Budesonide (intranasal steroid, preferred in pregnancy)**\n- Lucky Lieutenant with Four-Leaf Clover = **Montelukast (leukotriene antagonist, useful in asthma + rhinitis)**\n"
+  },
+  "images/heme-onc/third-generation-androgen-receptor-blockers.png": {
+    "title": "Third-Generation Androgen Receptor (AR) Blockers",
+    "tags": [
+      "third",
+      "generation",
+      "androgen",
+      "receptor",
+      "blockers",
+      "heme-onc"
+    ],
+    "notes": "Third-generation -lutamide AR blockers (enzalutamide, darolutamide, apalutamide) for castration-resistant prostate cancer.\n\nANCHORS:\n- Ludacris \"L\" Logo Shields = **-lutamide suffix (AR blocker class)**\n- Triple-Action Shield Block = **Triple mechanism (ligand binding, nuclear translocation, DNA binding)**\n- Glandular Keep = **Prostate gland**\n- Testo-Keys = **Testosterone / Androgen ligand**\n- End-Zone Ludacris = **Enzalutamide**\n- Keanu Reeves (Daro) = **Darolutamide**\n- Appalachian Titan = **Apalutamide**\n- Crownless King = **Castration-Resistant Prostate Cancer (CRPC)**\n- Brain-Shaking Luda & Titan = **Seizure risk (cross blood-brain barrier)**\n- Calm Keanu = **Darolutamide lower seizure risk (poor BBB penetration)**\n"
+  },
+  "images/id/orientia-tsutsugamushi.png": {
+    "title": "Orientia tsutsugamushi (Scrub Typhus) — The Samurai in the Scrub",
+    "tags": [
+      "orientia",
+      "tsutsugamushi",
+      "id"
+    ],
+    "notes": "Obligate intracellular cause of scrub typhus, transmitted by chigger mites; fever, eschar, rash; treat with doxycycline.\n\nANCHORS:\n- \"Oriental\" compass pointing East (on Samurai's chest) = **Orientia tsutsugamushi; tsutsugamushi triangle (Asia, Australia, Pacific)**\n- Thick thorny scrub brush surrounding warrior = **Scrub Typhus**\n- Tight bamboo cage woven into brush = **Obligate intracellular (cannot replicate outside host cell)**\n- Tiny \"Trigger\" mites on weapon; finger on trigger = **Chiggers (Trombiculid mite larvae) - vector AND reservoir via transovarial transmission**\n- Black necrotic cigar burning a hole in arm = **Eschar (painless punched-out ulcer with black necrotic center; pathognomonic)**\n- Spotted red tunic under armor = **Maculopapular rash (fever + headache + myalgia + rash from trunk to extremities)**\n- Swollen bulbous shoulder pads + neck guards = **Lymphadenopathy (regional, especially near eschar)**\n- Broken bicycle wheel leaning against brush = **Doxycycline (first-line for Scrub Typhus and all rickettsial diseases)**\n- Key distinction: Orientia mite = **vector AND reservoir (vs. Rickettsia: vertebrate amplifying hosts required)**\n"
+  },
+  "images/derm/acute-cutaneous-lupus-erythematosus.png": {
+    "title": "Acute Cutaneous Lupus Erythematosus (ACLE) — The A-Cute Wolf's Beach Day",
+    "tags": [
+      "acute",
+      "cutaneous",
+      "lupus",
+      "erythematosus",
+      "derm"
+    ],
+    "notes": "Acute photosensitive non-scarring cutaneous lupus with malar rash; ~100% have SLE; anti-dsDNA/anti-Sm positive.\n\nANCHORS:\n- \"A-Cute\" Red Wolf lounging in a beach chair = **Acute Cutaneous Lupus Erythematosus (ACLE)**\n- Butterfly-shaped sunburn across nose and cheeks = **Malar rash (\"butterfly rash\") - erythema over cheeks and nasal bridge**\n- White muzzle - nasolabial folds untouched = **Spares the nasolabial folds (key distinction from Rosacea)**\n- Smooth, non-scarring red skin on the wolf = **Non-scarring (unlike DLE which causes permanent atrophic scarring)**\n- Angry sun overhead (red spots on arms and V of neck) = **Photosensitivity (UV triggers flares; V-sign and shawl sign)**\n- Globe beach ball held by the wolf = **~100% association with SLE**\n- Double-helix straw = **Anti-dsDNA antibodies (highly specific for SLE; correlates with activity and nephritis)**\n- Blacksmith hammering a metal umbrella = **Anti-Smith (anti-Sm) antibodies (highly specific for SLE, low sensitivity)**\n- Moon-pattern beach umbrella = **Corticosteroids (topical for mild; systemic for severe flares)**\n- Mosquito swatter = **Hydroxychloroquine / antimalarials (first-line systemic; reduces flares and SLE progression)**\n"
+  },
+  "images/rheum/immune-mediated-necrotizing-myopathy.png": {
+    "title": "Immune-Mediated Necrotizing Myopathy (IMNM) — The Necromancer's Gala",
+    "tags": [
+      "immune",
+      "mediated",
+      "necrotizing",
+      "myopathy",
+      "rheum"
+    ],
+    "notes": "Pauci-inflammatory necrotizing myopathy (anti-SRP or statin-associated anti-HMGCR) with very high CK.\n\nANCHORS:\n- Necromancer raising the dead = **Necrotizing Myopathy**\n- Rotting muscle meat with NO torches or fire = **Pauci-inflammatory (minimal lymphocytic infiltrate; unlike PM)**\n- Macro-ghosts devouring meat = **Macrophage infiltration (dominant histologic finding)**\n- Syrup-covered fast zombie = **Anti-SRP (rapid severe weakness; very high CK; often refractory)**\n- Hamster Steampunk Pirate statue = **Anti-HMGCR (statin-associated; persists after statin discontinuation)**\n- Legless zombie / thighs falling apart = **Proximal Muscle Weakness (symmetric; hip flexors + shoulder girdle)**\n- Crispy Chicken buffet table = **Markedly Elevated CK (>10x ULN)**\n- Moon-shaped balloon = **Corticosteroids (moon face; first-line)**\n- Ivy vines at gala entrance = **IVIG (first-line adjunct; steroid-sparing)**\n- Man in a Tuxedo = **Rituximab (anti-CD20; refractory IMNM, especially Anti-SRP)**\n"
+  },
+  "images/id/japanese-encephalitis-virus.png": {
+    "title": "Japanese Encephalitis Virus (JEV) — The Flavored Rice Paddy",
+    "tags": [
+      "japanese",
+      "encephalitis",
+      "virus",
+      "id"
+    ],
+    "notes": "Culex-borne flavivirus encephalitis of rural Asia with thalamic/basal ganglia involvement and Parkinsonian signs; vaccine-preventable.\n\nANCHORS:\n- Red Torii gate framing scene = **Japanese Encephalitis Virus (JEV); endemic rural Asia + western Pacific**\n- \"Flavor-Burst\" juice box = **Flavivirus (positive-sense enveloped ssRNA; same family as Dengue, WNV, Powassan, Zika)**\n- \"Cool-Ex\" fan blowing mosquito swarms = **Culex mosquito vector (breeds in stagnant water)**\n- Muddy pig wallowing in paddy = **Pig = Amplifying Host (virus replicates to high titers in swine)**\n- Crane/heron wading in water = **Wading birds = Maintenance Host**\n- Sweating farmer with brain-freeze ice pack = **Fever + Encephalitis (~99% asymptomatic; severe = AMS, headache, seizures)**\n- Trembling hands (motion lines) = **Tremor / Extrapyramidal signs (JEV targets Thalamus + Basal Ganglia)**\n- Rigid wooden theater mask on forehead = **Mask-like facies + Rigidity (Parkinsonian signs - distinguishing feature)**\n- Syringe-shaped planting tool = **Inactivated vaccine available (IXIARO) for travelers in endemic rural areas**\n"
+  },
+  "images/rheum/tocilizumab.png": {
+    "title": "Tocilizumab — The Two Seals' Traveling Circus",
+    "tags": [
+      "tocilizumab",
+      "rheum"
+    ],
+    "notes": "IL-6 receptor antagonist for giant cell arteritis, cytokine release syndrome, RA, and sJIA/Still's.\n\nANCHORS:\n- Two Seals = **Tocilizumab (\"Two-Seals-umab\")**\n- Saxophone shaped like \"6\" = **IL-6 Receptor Antagonist**\n- Giant Ringmaster with temple bandage = **Giant Cell Arteritis (Temporal Arteritis)**\n- Stormy Tent = **Cytokine Release Syndrome (CRS / CAR-T)**\n- BaghDMARD Audience = **Rheumatoid Arthritis**\n- Still Child in front row = **sJIA / Still's Disease**\n- TB Cage (tiger) = **TB Reactivation risk**\n- Buttered Popcorn = **Hyperlipidemia**\n- Liver Balloon = **Hepatotoxicity**\n"
+  },
+  "images/neuro/multiple-sclerosis-disease-modifying-therapies.png": {
+    "title": "Multiple Sclerosis — Disease-Modifying Therapies",
+    "tags": [
+      "multiple",
+      "sclerosis",
+      "disease",
+      "modifying",
+      "therapies",
+      "neuro"
+    ],
+    "notes": "Disease-modifying therapies for multiple sclerosis across subtypes; ocrelizumab is the only agent approved for PPMS.\n\nANCHORS:\n- Multiple Skills Academy = **MS (Multiple Sclerosis)**\n- Clinically Isolated Clinic = **CIS (Clinically Isolated Syndrome)**\n- Relapsing Recess Yard = **RRMS (Relapsing-Remitting MS)**\n- Secondary Senior Wing = **SPMS (Secondary Progressive MS)**\n- Primary Prep Building = **PPMS (Primary Progressive MS)**\n- Gladiator (Roman soldier) = **Glatiramer acetate**\n- Terra-Cotta Warrior = **Teriflunomide**\n- Interference Antenna = **Interferon beta (IFN-beta)**\n- Mighty Ox = **Mitoxantrone (limited by cumulative cardiotoxicity)**\n- Sphinx with 1 finger raised = **Fingolimod (Sphingosine-1-phosphate / S1P modulator)**\n- Exhaust Fumes from school bus = **Dimethyl fumarate (Fumarates)**\n- Nature Zone sign = **Natalizumab (anti-alpha4-integrin; PML risk)**\n- Fat Tummy character = **Ofatumumab (anti-CD20)**\n- Okra = **Ocrelizumab (anti-CD20; only DMT approved for PPMS)**\n- Lemons = **Alemtuzumab (anti-CD52)**\n- Lunch Menu: Okra Only = **Ocrelizumab is the only DMT approved for PPMS**\n- Active Students Use Recess Yard banner = **SPMS with active disease can use RRMS DMTs**\n"
+  },
+  "images/cardio/finerenone-mineral-auction.png": {
+    "title": "Finerenone — The Fine Mineral Auction",
+    "tags": [
+      "finerenone",
+      "mineral",
+      "auction",
+      "cardio"
+    ],
+    "notes": "Non-steroidal mineralocorticoid receptor antagonist for CKD + type 2 diabetes with cardiorenal protection.\n\nANCHORS:\n- Slim elegant tuxedo auctioneer (\"Fine\") = **Finerenone (name anchor)**\n- \"No Steroids\" easel (red X over steroid ring + bodybuilder) = **Non-steroidal MRA (critical distinction from Spironolactone)**\n- Glowing crystal gem (the mineral) on podium = **Mineralocorticoid Receptor (aldosterone receptor)**\n- Auctioneer slamming gavel to block sale = **Receptor antagonist (blocks MR overactivation, preventing fibrosis + inflammation)**\n- Kidney-shaped gem = **CKD (Chronic Kidney Disease) - slows progression**\n- Bowl of candy beside gem = **Type 2 Diabetes (indicated for CKD associated with T2DM)**\n- Heart-emblem shield on podium = **Cardiovascular protection (reduces CV death, MI, HF hospitalization)**\n- Massive banana chandelier = **Hyperkalemia (K+ retention; monitor levels)**\n- Slim flat-chested auctioneer (\"No Bra\") = **No gynecomastia (non-steroidal structure spares androgen/progesterone receptors)**\n"
+  },
+  "images/heme-onc/braf-inhibitors.png": {
+    "title": "BRAF Inhibitors — The Bamboo RAFT Expedition (v2.0)",
+    "tags": [
+      "braf",
+      "inhibitors",
+      "heme-onc"
+    ],
+    "notes": "Vemurafenib/dabrafenib target BRAF V600E in metastatic melanoma and hairy cell leukemia.\n\nANCHORS:\n- Bamboo RAFT labeled \"V600E\" = **BRAF V600E mutation (constitutively active kinase in the MAPK pathway)**\n- Hairy Sasquatch riding the raft = **Hairy Cell Leukemia (frequently carries BRAF V600E)**\n- Melanoma Mole-Skin Sails = **Metastatic Melanoma (primary indication for BRAF inhibitors)**\n- \"Venmo\" Toll Booth = **Vemurafenib (direct inhibitor of mutated BRAF V600E kinase)**\n- \"Dab-Raft\" Sniper = **Dabrafenib (BRAF V600E inhibitor; often combined with MEK inhibitors)**\n- Sunburned Lobster-Red Sasquatch = **Photosensitivity (classic side effect of Vemurafenib)**\n- New Wood Growth on Raft = **Squamous Cell Carcinoma / Keratoacanthoma (paradoxical MAPK activation in normal cells)**\n"
+  },
+  "images/endo/pseudohypoparathyroidism.png": {
+    "title": "Pseudohypoparathyroidism (Type 1A / AHO) — The Pseudo Hall-Party",
+    "tags": [
+      "pseudohypoparathyroidism",
+      "endo"
+    ],
+    "notes": "PTH end-organ resistance (GNAS1) with high PTH, low calcium, high phosphate, and Albright hereditary osteodystrophy.\n\nANCHORS:\n- \"Fake D\" Trophy = **Pseudohypoparathyroidism (PHP) - body acts as if PTH is absent but PTH is massively elevated**\n- Crowd holding PTH signs high in the air = **High PTH (compensatory hypersecretion)**\n- Crowd blocking the way / ignoring commands = **End-organ resistance to PTH (GNAS1 mutation -> defective Gs-alpha -> broken cAMP)**\n- Spilled Milk = **Hypocalcemia (kidneys cannot reabsorb Ca2+ in response to PTH)**\n- Drinking Soda = **Hyperphosphatemia (kidneys cannot excrete phosphate in response to PTH)**\n- Short round character with round face + short neck = **AHO phenotype (short stature, round face, obesity)**\n- Shortened 4th and 5th fingers = **Brachydactyly type E (knuckle-knuckle-dimple-dimple / Archibald sign)**\n- \"Low IQ\" sign in crowd = **Intellectual disability (PHP1A)**\n- Lady with circles on her = **Subcutaneous calcifications / osteoma cutis**\n- Maternal GNAS1 mutation = **PHP1A (PTH resistance + AHO phenotype + abnormal labs)**\n- Paternal GNAS1 mutation = **PseudoPHP (AHO phenotype only, normal labs)**\n"
+  },
+  "images/id/powassan-virus.png": {
+    "title": "Powassan Virus — Camp Powassan",
+    "tags": [
+      "powassan",
+      "virus",
+      "id"
+    ],
+    "notes": "Ixodes tick-borne flavivirus encephalitis transmitted in as little as 15 minutes; no treatment or vaccine.\n\nANCHORS:\n- \"Flavor-Burst\" juice dispenser (red) = **Flavivirus family (related to WNV, Dengue, TBEV)**\n- Giant hard tick on log = **Ixodes scapularis vector (same tick as Lyme disease)**\n- 15-minute detail = **Transmission in as little as 15 min (vs Lyme = 24-48 hrs)**\n- Squirrels & chipmunks at woodpile = **Small rodent reservoirs (groundhogs, squirrels, chipmunks)**\n- Camper with ice pack on head = **Encephalitis (hallmark of severe disease)**\n- Thermometer on cabin wall = **High fever (early systemic symptom)**\n- \"Encephalitis Lodge\" cabin = **Meningoencephalitis (primary clinical syndrome)**\n- Nurse brings only water + compress = **Supportive care only (no antiviral, no vaccine)**\n- Mortality ~10-15%; ~50% of survivors have permanent neurological sequelae\n- Dx: serology (IgM/IgG) or RT-PCR; CSF: lymphocytic pleocytosis + elevated protein\n"
+  },
+  "images/endo/thyroid-hormone-effects-on-bone.png": {
+    "title": "Thyroid Hormone Effects on Bone — Thy-Speed: Bone Destruction",
+    "tags": [
+      "thyroid",
+      "hormone",
+      "effects",
+      "on",
+      "bone",
+      "endo"
+    ],
+    "notes": "Thyroid hormone increases bone turnover (resorption > formation) causing osteoporosis, mild hypercalcemia, and accelerated bone age.\n\nANCHORS:\n- Spinning Red Bow-Tie + Skeleton jumpsuit = **Thyroid hormone effects on Bone (Bow-Tie = thyroid; Skeleton = bone; spinning = hyperthyroid state)**\n- Hyper-fast Jackhammer crew (moving faster than the builders) = **Increased bone turnover with net resorption > formation in hyperthyroidism**\n- Swiss Cheese bone pillars crumbling = **Chronic hyperthyroidism -> osteoporosis / low BMD / fracture risk**\n- Overflowing Calci-Yum fountain = **Mild hypercalcemia (increased osteoclast activity releases Ca2+ into bloodstream)**\n- 4 PthD buttons drowned/submerged in ice cream = **Hypercalcemia suppresses PTH secretion (low PTH in hyperthyroidism)**\n- Leaking kidney-shaped drain overflowing with white liquid = **Hypercalciuria (excess Ca2+ filtered by kidneys into urine)**\n- Growth-Spurt Child Actor next to height chart = **T3 stimulates chondrocyte maturation -> linear bone growth in children**\n- Bone-Age Clock spinning faster than regular clock = **Accelerated skeletal maturation / bone age in children**\n"
+  },
+  "images/endo/hungry-bone-syndrome.png": {
+    "title": "Hungry Bone Syndrome — The Skeletal Buffet",
+    "tags": [
+      "hungry",
+      "bone",
+      "syndrome",
+      "endo"
+    ],
+    "notes": "Profound hypocalcemia/hypophosphatemia/hypomagnesemia from rapid bone remineralization after parathyroidectomy.\n\nANCHORS:\n- Green Scalpel cutting a Pair of Ties off character's collar = **post-parathyroidectomy surgery**\n- Discarded Pair of Ties lying limp on floor = **sudden PTH withdrawal/drop (bone no longer told to release minerals)**\n- Starving Skeleton wielding Osteoblast-Construction Drill = **Hungry Bone Syndrome (massive net shift to osteoblastic bone formation; minerals pulled into skeleton)**\n- Massive blue Alp Mountains in background = **high pre-op ALP (higher peaks = greater pre-op bone turnover = higher risk of HBS)**\n- Red puddle of Spilled Milk (hypocalcemia) + Spilled Soda (hypophosphatemia) leaking from skeleton's tray = **hypocalcemia + hypophosphatemia**\n- Red Falling Magnet fumbled by skeleton = **hypomagnesemia (Mg also rapidly sequestered into bone)**\n- Waiter rushing over with blue IV Milk Bag + blue Active-Sun Vitamin bottles = **treatment: IV/oral calcium + calcitriol/active Vit D**\n- Trident (3) + Four-leaf Clover (4) stuck in buffet table = **HBS onset/peak typically days 3-4 post-op**\n"
+  },
+  "images/endo/osteitis-fibrosa-cystica.png": {
+    "title": "Osteitis Fibrosa Cystica — Jurassic Bone Park",
+    "tags": [
+      "osteitis",
+      "fibrosa",
+      "cystica",
+      "endo"
+    ],
+    "notes": "Severe skeletal disease of hyperparathyroidism with brown tumors, subperiosteal resorption, and salt-and-pepper skull.\n\nANCHORS:\n- Ostrich in Fiber-optic neon vest eating Cyst-shaped eggs = **Osteitis Fibrosa Cystica (Ostrich + Fiber + Cyst)**\n- Park ranger's PthD lab coat with 4 glowing buttons = **Hyperparathyroidism (markedly elevated PTH drives all bone changes)**\n- Brown T-Rex covered in lumpy brown fur and rusted metal = **Brown Tumors (osteoclast collections + fibrous tissue + hemosiderin; not neoplastic)**\n- Worker seasoning a dinosaur skull with Salt and Pepper shakers = **Salt-and-pepper skull on X-ray**\n- Lightsaber peeling the outer layer of a fossilized finger bone = **Subperiosteal bone resorption (most specific HPT X-ray sign; radial aspect of 2nd/3rd phalanges)**\n- Bone-shaped menu full of cystic hole-punches = **Bone cysts and generalized demineralization**\n- Jeff Goldblum (VON) driving recklessly into the Bone sign = **Von Recklinghausen's disease of bone (eponym; distinct from NF1)**\n- Overflowing Calci-Yum ice cream cart = **Hypercalcemia (associated feature of primary HPT)**\n"
+  },
+  "images/endo/hypophosphatasia.png": {
+    "title": "Hypophosphatasia — The Natural History Museum Rampage",
+    "tags": [
+      "hypophosphatasia",
+      "endo"
+    ],
+    "notes": "ALPL deficiency of tissue-nonspecific alkaline phosphatase (low ALP) causing defective mineralization; treated with asfotase alfa.\n\nANCHORS:\n- Rogue Hippo with sparking Fossil-Taser = **Hypophosphatasia (Hippo + Fossil + Taser)**\n- Crushed Mountain \"Alp\" Chalk Box = **Low Alkaline Phosphatase / ALP (defining lab; the only metabolic bone disease with LOW ALP)**\n- Bitten Apple Core = **ALPL gene mutation (encodes tissue-nonspecific ALP)**\n- Mountain of Flaming Pies = **Elevated Pyrophosphate / PPi (accumulates when ALP can't cleave it -> blocks hydroxyapatite -> blocks mineralization)**\n- Devil-Marked Beehive with 6s = **Elevated Vitamin B6 / PLP (plasma PLP = sensitive HPP biomarker; impaired CNS B6 transport -> seizures)**\n- T-Rex skeleton with rubber bending legs = **Osteomalacia / defective bone mineralization (soft, weak, fractured bones; rickets in children)**\n- Baby Dino with bolted metal skull-cap = **Craniosynostosis (premature cranial suture fusion in infantile HPP)**\n- Intact baby teeth scattered on pedestal = **Premature deciduous tooth loss WITH intact roots (pathognomonic; <5 yr)**\n- Kidney-shaped fountain choked with stones = **Nephrocalcinosis and hypercalcemia (Ca2+ not deposited into bone)**\n- Ash-Photo Alpha Wolf with restorative camera flash = **Asfotase alfa (recombinant TNAP enzyme replacement therapy)**\n"
+  },
+  "images/endo/calcitonin.png": {
+    "title": "Calcitonin — The Museum Curator",
+    "tags": [
+      "calcitonin",
+      "endo"
+    ],
+    "notes": "Hormone that directly inhibits osteoclasts and promotes renal calcium excretion; used in hypercalcemia and osteoporosis.\n\nANCHORS:\n- The Curator (black suit) = **Calcitonin (\"toning it down\")**\n- Grabbing rowdy Classmate = **Direct osteoclast inhibition (decreases bone resorption)**\n- Pouring Calci-Yum milk down flank = **Promotes renal Ca2+ excretion**\n- \"Toning It Down\" (chaos calmed) = **Hypercalcemia indication**\n- \"Toning It Down\" (bone loss calmed) = **Osteoporosis indication (second-line)**\n- Spilled/falling ice cream on floor = **Hypocalcemia (side effect of aggressive treatment)**\n- Nasal spray nozzle on Curator = **Nasal calcitonin (common delivery route for osteoporosis)**\n"
+  },
+  "images/cardio/spironolactone.png": {
+    "title": "Spironolactone — The Spiral of Life Science Fair",
+    "tags": [
+      "spironolactone",
+      "cardio"
+    ],
+    "notes": "Potassium-sparing aldosterone antagonist and antiandrogen; causes gynecomastia and hyperkalemia.\n\nANCHORS:\n- Spider-Man with Swirling Spirals writing in a Spiral Notebook + Man-Bra = **Spironolactone (Man-Bra = gynecomastia is the central SE)**\n- Android robot locked in a Cage = **Competitive Androgen Receptor (AR) Antagonism (primary mechanism)**\n- Cracked \"17-HYDRO/DESMO\" flask leaking = **Inhibition of 17-alpha-hydroxylase and 17,20-desmolase (blocks androgen synthesis enzymes)**\n- Jammed Android Assembly Line tangled in Spider-Webs = **Decreased Testosterone Production**\n- Giant Nose machine (\"HORMONE CONVERSION\") turning Android into Venus statue = **Increased aromatase conversion of Testosterone -> Estrogen**\n- Overturned SHBG Box spilling testosterone, making room for estrogen = **Displaces Testosterone from SHBG (increases free estrogen ratio)**\n- Testosterone Clearance Chute vacuuming Android dolls = **Increased metabolic clearance of Testosterone**\n- Man-Bra + Pile of Pink Ribbons burying empty Testosterone crate = **Gynecomastia (net high E:A ratio; defining clinical side effect)**\n- Kidney-shaped Mineral Safe locked with chains, Banana protected inside = **Mineralocorticoid antagonism -> Hyperkalemia (monitor with ACEi/ARBs)**\n- Tangled spiral Calendar + Limp \"E-D\" Battery \"NO POWER\" = **Menstrual irregularities (females) / Erectile dysfunction (males)**\n"
+  },
+  "images/id/human-bites.png": {
+    "title": "Human Bites — Bite Club",
+    "tags": [
+      "human",
+      "bites",
+      "id"
+    ],
+    "notes": "Polymicrobial bite wounds (Eikenella corrodens); amoxicillin-clavulanate first-line; hand bites need surgical/X-ray evaluation.\n\nANCHORS:\n- \"Bite Club\" Neon Human Jaw Sign = **Human bite (primary anchor)**\n- Green Glove = **Hand involvement (indication)**\n- Green Cane = **Immunocompromise (indication)**\n- Deep Green Pothole = **Deep puncture wound (indication)**\n- Green Skeleton = **Bone / joint involvement (indication)**\n- Green Mask = **Face involvement (indication)**\n- Green Fig Leaf = **Genitalia involvement (indication)**\n- Green Checkmark labeled \"Prophylaxis\" = **Prophylaxis recommended (summary)**\n- Flower-covered Metro Train = **Fluoroquinolone + Metronidazole (PCN-allergy regimen)**\n- Dachshund with Doxy-collar + Cleaning Spray = **Doxycycline + Clindamycin/Metronidazole (alt regimen)**\n- Blue Scalpel carving handprint = **Surgical evaluation of hand bite**\n- Gray X-ray Lightbox showing hand = **Radiographs for hand bites**\n"
+  },
+  "images/heme-onc/androgen-synthesis-inhibitors.png": {
+    "title": "Androgen Synthesis Inhibitors — The Factory Shutdown",
+    "tags": [
+      "androgen",
+      "synthesis",
+      "inhibitors",
+      "heme-onc"
+    ],
+    "notes": "Ketoconazole (broad CYP450) and abiraterone (irreversible CYP17) block androgen synthesis in prostate cancer.\n\nANCHORS:\n- Tin Man = **Ketoconazole (acts on adrenal gland and testes)**\n- Adrenal Lock / kidney-shaped lock (CYP17) = **Ketoconazole inhibits CYP17 (17,20-desmolase)**\n- Broken Android = **Anti-androgenic effect via CYP450 inhibition in testes**\n- Broken Chrome Bumper = **Broad Cytochrome P-450 enzyme inhibition**\n- Coconut Bra / breast bumps = **Gynecomastia (side effect of reduced androgens)**\n- A-Beer Titan (root beer tray) = **Abiraterone**\n- 17 Smasher (mallet crushing #17 gear) = **Irreversible inhibition of 17-alpha-hydroxylase / 17,20-desmolase**\n- Salty Adrenal Spill = **Mineralocorticoid excess (hypertension + hypokalemia) from pathway shunt**\n- Prednisone co-admin = **Suppresses ACTH to prevent mineralocorticoid excess shunt**\n"
+  },
+  "images/endo/cinacalcet.png": {
+    "title": "Cinacalcet — The Calci-Mimetics Premiere",
+    "tags": [
+      "cinacalcet",
+      "endo"
+    ],
+    "notes": "Calcimimetic (positive allosteric CaSR modulator) that suppresses PTH in secondary hyperparathyroidism and parathyroid carcinoma.\n\nANCHORS:\n- John Cena holding a sparkling Calculator like an award = **Cinacalcet (Cena + Calculator)**\n- Hulk using a Magnifying Glass to scrutinize a tiny calcium Oscar = **Increased sensitivity of Calcium-Sensing Receptor (CaSR) (positive allosteric modulation)**\n- John Cena deleting the PhD (PthD) star with the Calculator = **Decreased PTH secretion (sensitized CaSR suppresses parathyroid PTH release)**\n- Deadpool next to a Dialysis Machine projector with crumpled kidney cups = **Secondary hyperparathyroidism in CKD/dialysis (primary indication)**\n- Kaiju Crab Monster with broken PthD medallion and \"CARCINOMA\" sash = **Parathyroid carcinoma indication (hypercalcemia from inoperable/metastatic cancer)**\n- Winnie the Pooh with empty HUNY pot (chalky shells) = **Hypocalcemia (most dangerous SE; monitor Ca2+)**\n- Puking Minion vomiting green sludge on the red carpet = **Nausea / Vomiting (most common SE; GI upset)**\n- Terminator with 2 Combat Boots + Devil \"6\" patch blocking the CYP studio = **CYP2D6 inhibition (cinacalcet is a strong inhibitor)**\n"
+  },
+  "images/endo/glucocorticoid-effects-on-thyroid.png": {
+    "title": "Glucocorticoid Effects on Thyroid — Predator vs. The Thyroid",
+    "tags": [
+      "glucocorticoid",
+      "effects",
+      "on",
+      "thyroid",
+      "endo"
+    ],
+    "notes": "Glucocorticoids suppress the HPT axis, inhibit T4->T3 conversion, lower TBG, and are used in thyroid storm.\n\nANCHORS:\n- Camouflaged Predator lurking in the rafters = **Prednisone / Glucocorticoids (silently dismantles every level of thyroid function)**\n- Predator severs the Hype-Radio wire between the Hype-man and Pit-station = **HPT axis suppression (decreased TRH from hypothalamus + decreased TSH from anterior pituitary)**\n- Predator snaps a Four-leaf Clover (T4) to stop it being forged into a Trident (T3) = **5'-deiodinase inhibition (decreased peripheral T4->T3 conversion; same as euthyroid sick syndrome)**\n- Empty TBG Taxis (drivers scared off by Predator) = **Decreased hepatic TBG production (lower total T4/T3 on labs)**\n- Predator cooling device stopping a lightning storm in a jar = **Glucocorticoids used in thyroid storm (block release + decrease conversion + decrease peripheral action)**\n- Fish (TSH) Monitor showing falsely low readings = **Lab pitfall: glucocorticoids suppress TSH (mimics central hypothyroidism or masks hyperthyroidism)**\n"
+  },
+  "images/cardio/angiotensin-ii.png": {
+    "title": "Angiotensin II — Angie's Tense Action Sequel",
+    "tags": [
+      "angiotensin",
+      "ii",
+      "cardio"
+    ],
+    "notes": "RAAS effector causing vasoconstriction, aldosterone/ADH release, thirst, and cardiovascular remodeling.\n\nANCHORS:\n- Angie in tense combat stance with glowing gold \"II\" necklace = **Angiotensin II**\n- Robotic boa constrictor squeezing red artery pipeline = **AT1R activation -> increased SVR -> increased BP (vasoconstriction)**\n- Kidney-bean filtration plant with C-Clamp on the Efferent exit pipe = **Preferential efferent arteriole constriction (maintains GFR acutely; chronically -> intraglomerular HTN -> proteinuria/CKD)**\n- Mobster \"Al\" shoveling salty pretzels into overflowing pool = **Aldosterone release (adrenal cortex -> Na reabsorption + K/H excretion)**\n- Vampire (Vaso-pressin) pulling lever on brain-shaped panel = **ADH release (posterior pituitary -> aquaporins in collecting duct -> free water reabsorption)**\n- Survivalist crawling through desert chugging oversized canteen = **Thirst stimulation (hypothalamus -> increased fluid intake)**\n- Rogue construction crew slapping concrete + fibrous vines onto heart-shaped monument = **Cardiovascular remodeling (myocardial hypertrophy + cardiac fibrosis -> HF progression)**\n"
+  },
+  "images/id/pml-jc-virus.png": {
+    "title": "PML / JC Virus — The Fall of Julius Caesar",
+    "tags": [
+      "pml",
+      "jc",
+      "virus",
+      "id"
+    ],
+    "notes": "JC polyomavirus reactivation destroying oligodendrocytes in the immunocompromised, causing progressive multifocal leukoencephalopathy.\n\nANCHORS:\n- Marble bust of \"Julius Caesar\" = **JC Virus (polyomavirus)**\n- Naked statue beside bust = **Non-enveloped (naked) virus (no lipid envelope)**\n- Dying olive tree with falling white leaves (oligo-dendro) = **Oligodendrocyte destruction -> Demyelination**\n- Tripping senator dropping scrolls, confused = **Progressive neurologic deficits (weakness, ataxia, visual changes, AMS)**\n- Dull white puddles NOT reflecting torchlight = **Non-enhancing, multifocal asymmetric white matter lesions on MRI (no ring enhancement, no mass effect)**\n- Frail assassin with cane = **AIDS (CD4 <200) - JC reactivates with severe cellular immunocompromise**\n- \"Natalie\" assassin blocking doorway = **Natalizumab (anti-alpha4-integrin, used in MS) blocks CNS immune surveillance**\n- Assassin in \"Ritux\" tuxedo = **Rituximab (anti-CD20) -> B-cell depletion -> PML risk**\n- Armed guards bursting back in = **Restore immunity (start HAART for HIV; stop biologic + plasma exchange for Natalizumab)**\n"
+  },
+  "images/endo/oncogenic-osteomalacia.png": {
+    "title": "Oncogenic Osteomalacia — Museum of Bony Oddities",
+    "tags": [
+      "oncogenic",
+      "osteomalacia",
+      "endo"
+    ],
+    "notes": "Tumor-induced osteomalacia from excess FGF-23 causing phosphate wasting; cured by tumor resection.\n\nANCHORS:\n- Tumor Magician (cloaked figure with tumorous staff + TUNA FISH can) puppet-mastering a Drooping Clay Skeleton = **Oncogenic Osteomalacia / Tumor-Induced Osteomalacia (TIO); mesenchymal tumor drives the pathology**\n- Frog-23 (athletic frog, jersey #23) on magician's shoulder = **excessive tumor-derived FGF-23 is the central mediator**\n- Nephron Machine; Frog-23 statue pushing Empty Blue Soda Cans into a Clogged Drain + cracked dark Sun Lamp = **FGF-23 -> phosphate wasting (hypophosphatemia) + inhibits 1-alpha-hydroxylase (decreased calcitriol)**\n- Character with rubbery bending skeleton + waddling gait using bending cane = **osteomalacia (bone softening, proximal muscle weakness, waddling gait, bone pain)**\n- Osteo-Builder and Osteo-Clast confused at soft bending bricks = **unmineralized osteoid (remodeling cannot proceed without calcified bone)**\n- DEXA Bone inDEX Book open showing red declining values = **low BMD; stress fractures; DEXA findings**\n- Green Scalpel cutting puppeteer strings of Tumor Magician = **surgical resection (definitive treatment; FGF-23 drops -> phosphate normalizes)**\n- Waiter bringing Giant Soda Can (phosphate) + Sun-Vitamin bottles = **medical management: oral phosphate + active Vit D**\n- Archer with Y-shaped bow aiming Anti-FGF-23 Arrow at Frog-23 statue = **burosumab (anti-FGF-23 monoclonal antibody)**\n"
+  },
+  "images/endo/inhibin-b.png": {
+    "title": "Inhibin B — The Cell-ular Apiary",
+    "tags": [
+      "inhibin",
+      "b",
+      "endo"
+    ],
+    "notes": "Gonadal hormone that selectively inhibits FSH; marker of spermatogenesis (men) and ovarian reserve (women).\n\nANCHORS:\n- Blue Recycling Bin with a Bee painted on it = **Inhibin B (In-the-Bin + Bee)**\n- Pituitary-shaped Beehive with a \"No FISH\" crossed-out sign = **Inhibits FSH secretion from the anterior pituitary (selective FSH suppression; not LH)**\n- Nurse worker tending the In-the-Bin Bee = **Source in men: Sertoli cells (reflects spermatogenesis quality)**\n- Granola Bar snack stand = **Source in women: Granulosa cells (follicular phase; reflects follicle cohort size)**\n- Broken, falling Sperm-shaped windvane = **Low Inhibin B in men -> low sperm count / impaired spermatogenesis (male infertility marker)**\n- Basket of cracked, empty egg shells = **Low Inhibin B in women -> diminished ovarian reserve (aging ovary or premature ovarian insufficiency)**\n"
+  },
+  "images/heme-onc/copper-deficiency.png": {
+    "title": "Copper Deficiency — The Copper Cop Prison Yard",
+    "tags": [
+      "copper",
+      "deficiency",
+      "heme-onc"
+    ],
+    "notes": "Causes myeloneuropathy and sideroblastic anemia; Menkes disease is the X-linked genetic form.\n\nANCHORS:\n- Copper Cop Statue being stripped = **Copper Deficiency**\n- MEN-KEYS Gang (mischievous monkeys with keys) = **Menkes Disease (X-linked ATP7A copper transport defect)**\n- Kinky hair on one of the monkeys = **Pili torti / Kinky Hair (hallmark of Menkes disease)**\n- Ataxic/wobbling monkey with bandaged feet = **Ataxia and Peripheral Neuropathy (myeloneuropathy mimicking B12 deficiency)**\n- Holey / crumbling pillars = **Osteoporosis and skeletal abnormalities (impaired lysyl oxidase)**\n- SIDE-BLAST hole in prison wall = **Sideroblastic Anemia (classic hematologic finding)**\n- Iron rings chained near the hole = **Ringed Sideroblasts (iron-laden mitochondria on marrow biopsy)**\n- Sick prison guard with muscle weakness and edema = **Systemic signs of copper depletion**\n- Inhibited Tire Swing (background) = **TKI class (pharmacology reminder)**\n"
+  },
+  "images/id/african-tick-typhus.png": {
+    "title": "African Tick Typhus (Rickettsia africae) — The Safari Adventure",
+    "tags": [
+      "african",
+      "tick",
+      "typhus",
+      "id"
+    ],
+    "notes": "Rickettsia africae infection from Amblyomma ticks; fever, tache noire eschar, and rash; treat with doxycycline.\n\nANCHORS:\n- Tennis racket in metal cage = **Obligate intracellular (\"racket\" trapped inside the \"cell\")**\n- Giant hard patterned tick = **Amblyomma hebraeum/variegatum (hard tick vector)**\n- Safari / Africa setting = **Rickettsia africae; sub-Saharan Africa + Caribbean**\n- Sweating head-clutching traveler = **High fever + severe headache (early symptoms; onset 5-10 days)**\n- Sunken black ulcer on forearm = **Tache noire (black eschar - pathognomonic at bite site)**\n- Faint pale-red spots on torso = **Maculopapular rash (mild/sparse; less prominent than RMSF)**\n- Wildebeest herd in background = **Animal reservoir (wildebeest, buffalo, cattle)**\n- Bicycle medic = **Doxycycline (DOC for all Rickettsia - start empirically)**\n- Compare RMSF (R. rickettsii): no eschar, prominent rash, more severe, Dermacentor tick, Americas\n"
+  },
+  "images/id/austrian-syndrome.png": {
+    "title": "Austrian Syndrome — The Sound of Music Tragedy",
+    "tags": [
+      "austrian",
+      "syndrome",
+      "id"
+    ],
+    "notes": "Triad of simultaneous pneumococcal pneumonia, endocarditis, and meningitis.\n\nANCHORS:\n- Austrian flag backdrop with large \"A\" = **Austrian Syndrome (primary anchor)**\n- Rusty Knight (blue armor, rusty surface) = **Streptococcus pneumoniae (rusty sputum; gram-positive diplococcus)**\n- Red-hot glowing Helmet = **Meningitis (Triad #1)**\n- Cracked Heart-shaped Shield = **Endocarditis (Triad #2 - often aortic valve)**\n- Cloudy Bagpipes (Knight coughing) = **Pneumonia (Triad #3)**\n- Shattered Gray Shield in 3 pieces = **Splenectomy / Asplenia (impaired opsonization of encapsulated organisms)**\n- Discarded Purple Schnapps bottle = **Alcohol use disorder (immune suppression + impaired mucociliary clearance)**\n"
+  },
+  "images/heme-onc/ptld-ebv.png": {
+    "title": "PTLD / EBV — The PTLD Post Office Panic",
+    "tags": [
+      "ptld",
+      "ebv",
+      "heme-onc"
+    ],
+    "notes": "EBV-driven B-cell lymphoproliferation in transplant recipients; treat by reducing immunosuppression +/- rituximab.\n\nANCHORS:\n- Transplant box = **Post-transplant state (immunosuppression risk context for PTLD)**\n- Mailman = **EBV (Epstein-Barr Virus) - driver of PTLD via latent B-cell infection**\n- Sweating mailman = **B symptoms (fever, night sweats, weight loss)**\n- Kissing couple = **Infectious mononucleosis (EBV transmission; primary EBV infection in EBV-negative recipient = highest risk)**\n- Monopoly board = **\"Mono\" (mononucleosis) - wordplay reinforcing EBV/mono link**\n- Green plant man = **Lymphoid proliferation / tumor growth (uncontrolled EBV-infected B-cell expansion)**\n- Bar scene = **EBV (secondary visual anchor)**\n- Frying pan with cells = **Abnormal lymphocytes / lymphoma cells**\n- \"Ritux\" tuxedo bouncer = **Rituximab (anti-CD20) - second-line after reduction of immunosuppression**\n"
+  },
+  "images/id/htlv-1.png": {
+    "title": "HTLV-1 — The HoT LaVa Volcano",
+    "tags": [
+      "htlv",
+      "1",
+      "id"
+    ],
+    "notes": "Retrovirus causing adult T-cell leukemia/lymphoma and HAM/TSP myelopathy.\n\nANCHORS:\n- \"HoT LaVa\" volcano = **HTLV-1 (Human T-cell Lymphotropic Virus 1)**\n- Torii gate in background = **Endemic geography (Japan/Kyushu, Caribbean, sub-Saharan Africa)**\n- Tortoise (chronic, slow progression) = **Symptoms develop over years to decades after infection**\n- Stone legs (rigid, stiff) = **Spastic paraparesis - HAM/TSP (HTLV-1-Associated Myelopathy / Tropical Spastic Paraparesis)**\n- Frayed cable = **Myelopathy + CNS inflammation (spinal cord demyelination and axonal damage)**\n- Red inflamed muscle = **Polymyositis (HTLV-1-associated inflammatory myopathy)**\n- Ash cloud to lungs = **Alveolitis (HTLV-1-associated pulmonary inflammation)**\n- Red eyes = **Uveitis (HTLV-1-associated ocular inflammation)**\n- Swollen arthritic hands = **Arthritis (HTLV-1-associated arthropathy)**\n- Key complication: ATLL (Adult T-cell Leukemia/Lymphoma) - CD4+ T-cell malignancy; hypercalcemia; flower cells on smear; 20-60 yr latency; poor prognosis\n"
+  },
+  "images/id/lemierre-syndrome.png": {
+    "title": "Lemierre Syndrome — The Lemur's Last Supper",
+    "tags": [
+      "lemierre",
+      "syndrome",
+      "id"
+    ],
+    "notes": "Fusobacterium necrophorum oropharyngeal infection causing septic internal jugular vein thrombophlebitis and pulmonary emboli.\n\nANCHORS:\n- Lemur clutching his neck = **Lemierre Syndrome (neck pain/swelling from IJV thrombophlebitis)**\n- Long pink/red Flute shaped like a dynamite fuse = **Fusobacterium necrophorum (gram-negative rod)**\n- Gas Mask worn by the Lemur = **Obligate anaerobe (Fusobacterium requires anaerobic conditions)**\n- Massive Jug of red wine with a fibrous cork stuck in the neck = **Internal Jugular Vein (IJV) thrombophlebitis (Jug = jugular; cork = thrombus)**\n- Red Scarf around the neck = **Oropharyngeal origin (pharyngitis/tonsillitis invading the lateral pharyngeal space)**\n- Waiter's apron printed with lungs covered in necrotic spots = **Septic pulmonary emboli (most common metastatic complication; cannonball lesions, abscesses, empyema)**\n- CT Plate garnish showing a neck CT with filling defect = **Contrast-enhanced CT neck (gold standard; reveals IJV thrombus)**\n"
+  },
+  "images/id/uti-in-pregnancy.png": {
+    "title": "UTI in Pregnancy — The Pregnant Bladder Gala",
+    "tags": [
+      "uti",
+      "in",
+      "pregnancy",
+      "id"
+    ],
+    "notes": "Pregnancy-safe UTI treatment with oral beta-lactams (cephalexin first-line); avoid fluoroquinolones, tetracyclines, TMP-SMX.\n\nANCHORS:\n- Pregnant Woman at the Bladder Garden Gala = **UTI in Pregnancy (subject and setting)**\n- Flexing Chef serving a platter = **Cephalexin (1st-line cephalosporin; go-to agent)**\n- Guard holding an Ammo-box and playing a Clarinet = **Amoxicillin-Clavulanate (Ammo = amoxicillin; Clarinet = clavulanate; for resistant strains)**\n- Glowing neon Diner sign = **Cefdinir (3rd-gen cephalosporin)**\n- Giant Pod of Peas on a vine = **Cefpodoxime (3rd-gen cephalosporin)**\n"
+  },
+  "images/neuro/posterior-reversible-encephalopathy-syndrome.png": {
+    "title": "Posterior Reversible Encephalopathy Syndrome (PRES) — The Posterior Premiere Panic",
+    "tags": [
+      "posterior",
+      "reversible",
+      "encephalopathy",
+      "syndrome",
+      "neuro"
+    ],
+    "notes": "Parieto-occipital vasogenic edema from hypertension or endothelial injury; seizures, cortical blindness, headache; usually reversible.\n\nANCHORS:\n- Bursting high-pressure steam pipes spraying water into subcortical seats = **Hypertensive emergency overwhelms cerebral autoregulation -> vasogenic edema (forced vasodilation mechanism)**\n- Corroded, pitted endothelial brass handrails = **Cytotoxic/endothelial injury theory (direct BBB breakdown from drugs or sepsis; PRES without severe hypertension)**\n- Man seizing on the floor in the back row = **Seizures (up to 90%; most common presenting symptom)**\n- Critic screaming he cannot see despite normal-appearing eyes = **Cortical blindness / visual field deficits (occipital lobe; Anton Syndrome = denies blindness)**\n- Drummer vibrating the back row with his drum = **Headache (dull, diffuse; present in ~50%)**\n- Symmetrical FLAIR flares illuminating the white ceiling in the back corners = **MRI FLAIR: bilateral symmetric vasogenic edema in parieto-occipital subcortical white matter (radiological hallmark)**\n- Pregnant Queen rushed out of VIP box = **Eclampsia / Preeclampsia (most classic PRES trigger)**\n- Taco-Limo driver at the stage door = **Calcineurin inhibitors: Tacrolimus (Taco) and Cyclosporine (Limo) (post-transplant; endothelial toxicity)**\n"
+  },
+  "images/pulm/hypersensitivity-pneumonitis.png": {
+    "title": "Hypersensitivity Pneumonitis — The Hyper-Sensitive Harvest",
+    "tags": [
+      "hypersensitivity",
+      "pneumonitis",
+      "pulm"
+    ],
+    "notes": "Extrinsic allergic alveolitis from inhaled organic antigens (Farmer's/Bird Fancier's/Hot Tub lung); antigen avoidance and steroids.\n\nANCHORS:\n- Farmer tossing moldy hay = **Farmer's Lung (thermophilic actinomycetes / Saccharopolyspora rectivirgula; common in agricultural workers)**\n- Vendor selling pigeons and parrots with flying feathers and droppings = **Bird Fancier's Lung (avian proteins; most common HP trigger worldwide)**\n- Hot tub and humidifier stall emitting visible mist = **Humidifier / Hot Tub Lung (thermophilic bacteria or Mycobacterium avium complex)**\n- \"III & IV\" Roman statues (Large Net = **immune complexes; Fire Axe = T-cells) = Mixed Type III (acute) + Type IV (chronic) hypersensitivity**\n- \"Gran-Loma\" Grandma knitting patchy sweater = **Non-caseating granulomas + patchy mononuclear interstitial infiltrate on biopsy**\n- Frosted \"ground glass\" mirror = **Ground glass opacities (GGOs) on HRCT (subacute/active HP)**\n- Dry, cracked, honeycombed beehive in \"Chronic\" corner = **Chronic HP -> irreversible pulmonary fibrosis + honeycombing; restrictive pattern**\n- Clock showing 4-6 hours past opening = **Acute HP presentation: symptoms 4-8 hours after antigen exposure**\n- Patron hopping on Exit Bicycle to leave the market = **Antigen avoidance (most critical treatment step)**\n- Vendor sprinkling \"TAZA\" powder = **Glucocorticoids / prednisone (for acute or severe HP)**\n"
+  },
+  "images/id/travelers-diarrhea.png": {
+    "title": "Travelers' Diarrhea (Bacterial Causes) — The E. Tech Traveler's Store",
+    "tags": [
+      "travelers",
+      "diarrhea",
+      "id"
+    ],
+    "notes": "Mostly bacterial (ETEC #1) watery diarrhea of travelers; azithromycin first-line, rifaximin for ETEC.\n\nANCHORS:\n- \"E. TECH\" neon sign = **Enterotoxigenic E. coli (ETEC)**\n- \"#1 Best Seller\" sign = **Most common cause of Travelers' Diarrhea**\n- Water puddles on floor = **Watery, non-inflammatory (secretory) diarrhea**\n- LT toxin = **Activates adenylate cyclase -> increased cAMP (same as cholera)**\n- ST toxin = **Activates guanylate cyclase -> increased cGMP**\n- \"Camp\" outdoor tech tent = **Campylobacter jejuni (poultry; comma/S-shaped rods)**\n- Flopping salmon = **Salmonella spp. (poultry/eggs; bacteremia risk)**\n- She-gorilla smashing display = **Shigella spp. (dysentery; low infectious dose; Shiga toxin; HUS)**\n- \"Super Vibrator Mode\" phone = **Vibrio parahaemolyticus (raw seafood)**\n- Travelers with passports/stomachs = **Travelers' Diarrhea (>=3 loose stools/day + symptoms)**\n- \"80% OFF Bacteria Blockers\" banner = **~80% of cases are bacterial**\n- Treatment = **ORS (mild); azithromycin 1st-line; rifaximin for ETEC; fluoroquinolones (rising resistance)**\n"
+  },
+  "images/heme-onc/primary-cns-lymphoma.png": {
+    "title": "Primary CNS Lymphoma (PCNSL) — The Brain Island",
+    "tags": [
+      "primary",
+      "cns",
+      "lymphoma",
+      "heme-onc"
+    ],
+    "notes": "Periventricular B-cell (DLBCL) lymphoma of the immunocompromised; HD-MTX + rituximab, no surgical resection.\n\nANCHORS:\n- Brain Island + CSF Moat = **CNS location; CSF is diagnostic sampling site**\n- Purple Tower next to Lake (ventricle) = **Periventricular lesion (classic PCNSL location)**\n- \"Solid and Dry, No Swelling\" ground = **Homogeneous enhancement, minimal edema on MRI**\n- Grim Reaper at the Gate = **Immunosuppression (HIV/AIDS) as risk factor**\n- Glowing EBV orb = **EBV-driven B-cell proliferation**\n- Boy Scout with net catching blobs from moat = **CSF cytology + flow cytometry (less invasive Dx)**\n- \"Only if Scout is Negative\" drill barge = **Stereotactic brain biopsy (reserved if CSF workup negative)**\n- Knight (Rituximab) = **Anti-CD20 immunotherapy**\n- Wizard (Methotrexate) = **High-dose MTX (backbone; crosses BBB)**\n- Soldier with bazooka = **Alkylating agent (e.g., temozolomide)**\n- Overhead Lamp = **Low-dose WBRT (consolidation or palliative)**\n- Idle Surgeon behind fence = **Surgical resection NOT indicated**\n"
+  },
+  "images/neuro/demyelinating-neuropathies.png": {
+    "title": "Demyelinating Neuropathies — The De-Myelin-ation Studio",
+    "tags": [
+      "demyelinating",
+      "neuropathies",
+      "neuro"
+    ],
+    "notes": "Myelin-damage neuropathies - CIDP (chronic), GBS (acute), and hereditary CMT - with areflexia and stocking-glove deficits.\n\nANCHORS:\n- \"De-Myelin-ation Studio\" with frayed wires = **Demyelinating neuropathies (myelin sheath damage disrupts nerve conduction)**\n- CD player labeled \"CIDP\" = **CIDP (Chronic Inflammatory Demyelinating Polyneuropathy)**\n- Shark Tooth Necklace = **Charcot-Marie-Tooth (CMT) disease**\n- \"Family Band\" photo on the wall = **CMT is hereditary (autosomal dominant motor-sensory neuropathy)**\n- Bear in \"GBS\" jersey bursting through door = **Guillain-Barre Syndrome (GBS) (bear sounds like Barre)**\n- Stopwatch showing fast time = **GBS is acute (rapid onset days to weeks; post-infectious ascending paralysis)**\n- Equalizer sliders at random levels = **Variable clinical course (relapsing-remitting, progressive, or plateau)**\n- Scale balancing Fan (Motor) = **Mic (Sensory) = Motor and sensory fibers affected**\n- Oversized gloves & thick socks (no shoes) = **Stocking-glove distribution (distal > proximal)**\n- Subwoofer (vibration) next to hot coffee = **Vibration & proprioception lost; pain & temperature preserved**\n- Broken reflex hammer on floor = **Areflexia (absent deep tendon reflexes; hallmark)**\n"
+  },
+  "images/rheum/relapsing-polychondritis-sand-gondola.png": {
+    "title": "Relapsing Polychondritis — The Arrakis Sand-Gondola",
+    "tags": [
+      "relapsing",
+      "polychondritis",
+      "sand",
+      "gondola",
+      "rheum"
+    ],
+    "notes": "Episodic autoimmune inflammation of cartilage (ears sparing earlobe, saddle nose, airway collapse).\n\nANCHORS:\n- Relapsing Paul-Gondola standing on the sand-sled = **Relapsing Polychondritis (primary name anchor)**\n- Red stillsuit hood burning the ears with healthy earlobes poking out = **Auricular chondritis sparing the earlobe (earlobe has no cartilage - pathognomonic)**\n- Saddle-backed sandworm collapsing into a \"U\" shape = **Saddle-nose deformity (nasal septal cartilage destruction)**\n- Bloodshot blue-within-blue spice eyes rimmed with red = **Scleritis / Episcleritis (ocular involvement)**\n- Cartilage steering pole snapping in half (Paul gasping) = **Laryngotracheal chondritis / airway collapse (most feared, potentially fatal complication)**\n- Heart-shaped spice box cracked and leaking blue liquid = **Cardiac involvement (aortic and/or mitral regurgitation)**\n- Red-glowing joint boots at knees and ankles steaming = **Migratory seronegative polyarthritis**\n- \"DR-4\" spice harvester with a four-leaf clover = **HLA-DR4 association**\n"
+  },
+  "images/id/nonpurulent-cellulitis.png": {
+    "title": "Nonpurulent Cellulitis (Mild) — The Baker's Red Footstools",
+    "tags": [
+      "nonpurulent",
+      "cellulitis",
+      "id"
+    ],
+    "notes": "Mild nonpurulent cellulitis from strep/MSSA; cephalexin first-line, no MRSA coverage needed.\n\nANCHORS:\n- Red glowing stool - clean and dry (no pus, no smell) = **Nonpurulent cellulitis (erythema without purulence; no MRSA coverage needed)**\n- Strep-Pie (round pie made of berry chains) = **Streptococcus (dominant pathogen in nonpurulent cellulitis)**\n- Golden Staff leaning against wall (no armor, no Van-Car) = **MSSA (Staphylococcus aureus; not MRSA -> no vancomycin needed)**\n- Flexing Chef carrying a tray = **Cephalexin (1st-gen cephalosporin; first-line for mild nonpurulent cellulitis)**\n- Worker leaning on a Cleaning Mop in Linen clothes = **Clindamycin (alternative for penicillin allergy or mild MRSA concern)**\n- Ammo-Box with a Clarinet resting on top = **Amoxicillin-Clavulanate (broader coverage; deeper tissue involvement)**\n"
+  },
+  "images/pulm/allergic-bronchopulmonary-aspergillosis.png": {
+    "title": "Allergic Bronchopulmonary Aspergillosis (ABPA) — The Asthmatic Airway Carnival",
+    "tags": [
+      "allergic",
+      "bronchopulmonary",
+      "aspergillosis",
+      "pulm"
+    ],
+    "notes": "Hypersensitivity to Aspergillus colonizing asthmatic/CF airways; high IgE, central bronchiectasis, eosinophilia.\n\nANCHORS:\n- Asthmatic Airway Roller Coaster (coughing/wheezing riders) = **Asthma (most common predisposing condition for ABPA)**\n- Cotton Candy Stand (sticky mucus analogy) = **Cystic fibrosis (second major predisposing condition)**\n- \"Iggy-E\" the Electric Eel wrapping around letter E = **Elevated total IgE (>1000 IU/mL; most important screening test)**\n- Asparagus Fungus handing out Y-balloons = **Aspergillus fumigatus-specific IgE elevation (Type I / IgE-mediated sensitization)**\n- Skin-Testing Dunk Tank (contestant splashed red by fungal spores) = **Immediate cutaneous reactivity to Aspergillus (positive skin prick test)**\n- Ferris Wheel Chest X-Ray (central spokes broken, outer rim intact) = **Central bronchiectasis without distal involvement (pathognomonic CT finding)**\n- Pink Eosinophil Vendor = **Peripheral eosinophilia (>500 cells/uL; Th2-driven response)**\n- Antibody Archery Booth (Y-arrows at fungal bullseyes) = **Precipitating antibodies / elevated Aspergillus-specific IgG (Type III component)**\n"
+  },
+  "images/derm/morphea.png": {
+    "title": "Morphea — The Matrix of Collagen",
+    "tags": [
+      "morphea",
+      "derm"
+    ],
+    "notes": "Localized (skin-only) scleroderma with ivory plaques and lilac borders; no Raynaud's or organ involvement.\n\nANCHORS:\n- Morph-eus (in long coat) = **Morphea (primary anchor; phonetic Morph-ea)**\n- Lilac/purple glow on Morpheus's glasses = **Violaceous/lilac inflammatory border (active edge of lesion)**\n- Waxy ivory-white patch on Morpheus's coat = **Sclerotic ivory-colored plaque (hardened, bound-down skin)**\n- Morpheus slapping away the Blue Pill = **No Raynaud's phenomenon (distinguishes morphea from systemic sclerosis)**\n- \"No Organ Music\" neon sign = **No internal organ involvement (localized disease only)**\n- Neo's vertical sword/sabre scar on forehead = **En coup de sabre (linear morphea subtype affecting head/scalp)**\n- Tape measure around Neo's thin arm = **Linear morphea causing limb atrophy**\n- Matrix code falling as thick green ropes = **Histology: thickened, horizontal collagen bundles (dermis)**\n- Empty hair-gel jars + dry sponges on floor = **Loss of adnexal structures (hair follicles and sweat glands)**\n- UVA1 Sun-Lamp in one hand = **UVA1 phototherapy (treatment for extensive/generalized morphea)**\n- Meat Stix (Methotrexate) in other hand = **Methotrexate (treatment for extensive/linear morphea)**\n"
+  },
+  "images/rheum/inclusion-body-myositis.png": {
+    "title": "Inclusion Body Myositis — The IBM Post Office",
+    "tags": [
+      "inclusion",
+      "body",
+      "myositis",
+      "rheum"
+    ],
+    "notes": "Slowly progressive myopathy of older men with distal/asymmetric weakness, rimmed vacuoles, and steroid refractoriness.\n\nANCHORS:\n- I.B.M. Post Office sign = **Inclusion Body Myositis**\n- Elderly Postmaster = **Male age >50 (male-predominant disease)**\n- Snail-paced sorting = **Insidious, slow progression over years**\n- Slipping envelopes through fingers = **Distal finger flexor weakness (early, characteristic)**\n- Knees buckling on step-stool = **Quadriceps weakness (falls)**\n- One heavy sleeve (left vs right) = **Asymmetric weakness (vs symmetric proximal in Polymyositis)**\n- Red-rimmed mail slots = **Rimmed vacuoles on biopsy (Gomori trichrome)**\n- Blue Guard inside slot (CD8) = **CD8+ T-cell endomysial inflammation**\n- Broken moon-shaped stamp = **Refractory to glucocorticoid therapy**\n"
+  },
+  "images/neuro/status-migrainosus.png": {
+    "title": "Status Migrainosus — The Statue of Migraine-erty",
+    "tags": [
+      "status",
+      "migrainosus",
+      "neuro"
+    ],
+    "notes": "Migraine lasting >72 hours; ED management with IV fluids, metoclopramide, ketorolac, and dexamethasone.\n\nANCHORS:\n- \"STATUE OF MIGRAINE-ERTY\" = **Status Migrainosus (condition name)**\n- \"72+ HRS\" Clock Tower = **Duration >=72 hours (diagnostic threshold)**\n- \"MEDICATION OVERUSE LANDFILL\" pile of pill bottles = **Medication overuse (major precipitant / MOH)**\n- Medics with IV fluid bag = **IV fluids (first step; rehydration)**\n- Giant metal crane claw grabbing nauseated green blob = **Metoclopramide (IV antiemetic + direct antimigraine)**\n- \"KETO-LOCK\" padlock = **Ketorolac (IV/IM NSAID analgesic)**\n- \"Die Hard\" in Ergo chair = **Dihydroergotamine (DHE) (IV ergot; refractory cases)**\n- Dexter with \"METH\" crystal = **Dexamethasone (reduces 24-hr recurrence post-ED)**\n- Parking Valet = **Valproate (IV antiepileptic; rescue therapy)**\n"
+  },
+  "images/neuro/juvenile-myoclonic-epilepsy.png": {
+    "title": "Juvenile Myoclonic Epilepsy (Janz Syndrome)",
+    "tags": [
+      "juvenile",
+      "myoclonic",
+      "epilepsy",
+      "neuro"
+    ],
+    "notes": "Adolescent-onset genetic epilepsy with morning myoclonic jerks, GTCs, and absences; valproate first-line (teratogenic).\n\nANCHORS:\n- Jan (teenager DJ) = **Juvenile Myoclonic Epilepsy, adolescent onset 12-20 years**\n- Lifetime Access pass = **Lifelong treatment required (high recurrence risk)**\n- Spilled milkshakes = **Myoclonic jerks (bilateral arms, consciousness preserved)**\n- Tonic Water bottle = **Generalized tonic-clonic seizures**\n- Staring friend (beanbag) = **Absence seizures (impaired consciousness)**\n- Morning alarm (7:00 AM) = **Seizures classically occur after awakening**\n- Dark eye circles = **Sleep deprivation trigger**\n- Alcohol bottles = **Alcohol consumption trigger**\n- Strobe/flickering light = **Photosensitivity / photoconvulsive response (~30-40%)**\n- Poly-Spikes band (3-5 members) = **EEG: polyspike-and-wave at 3-5 Hz**\n- Val-Fest banner = **Valproic acid is 1st-line treatment**\n"
+  },
+  "images/neuro/corticobasal-degeneration.png": {
+    "title": "Corticobasal Degeneration (CBD) — The Cortico-Basal Stadium",
+    "tags": [
+      "corticobasal",
+      "degeneration",
+      "neuro"
+    ],
+    "notes": "4R tauopathy with markedly asymmetric parkinsonism, dystonia, myoclonus, apraxia, and poor levodopa response.\n\nANCHORS:\n- \"CORTICO-BASAL STADIUM: GAME CALLED DUE TO DEGENERATION\" banner = **Corticobasal Degeneration (CBD)**\n- Asymmetric crumbling of upper stands & lower dugout = **MRI: asymmetric focal cortical atrophy + basal ganglia atrophy**\n- Pitcher with tremor/rigidity on one side = **Severely asymmetric parkinsonism**\n- Catcher in twisted pose = **Fixed dystonia (involuntary sustained muscle contraction)**\n- Catcher's leg jerking = **Myoclonus (stimulus-sensitive brief muscle jerks)**\n- Umpire failing to gesture \"Out\" = **Apraxia (inability to perform learned purposeful movements)**\n- Batter fumbling with bat, confused at his own hands = **Cortical sensory deficits (astereognosis, agraphesthesia; alien limb phenomenon)**\n- Scoreboard with gibberish = **Cognitive deficits (frontal-executive dysfunction, aphasia)**\n- Doctor's \"L-DOPA\" rejected by pitcher = **Poor/transient response to levodopa (key red flag vs. PD)**\n"
+  },
+  "images/endo/nodat.png": {
+    "title": "NODAT — The Sweet Transplant Jubilee",
+    "tags": [
+      "nodat",
+      "endo"
+    ],
+    "notes": "New-onset diabetes after transplant from immunosuppressants (tacrolimus > cyclosporine > sirolimus > steroids).\n\nANCHORS:\n- Sugar-Dripping Tree with Pancreatic Roots = **New-Onset Diabetes After Transplant (Primary Anchor)**\n- Old Man + Cane + Obese Person = **Older Age (>40-45) and Obesity as risk factors**\n- Green Banner = **Sweet Transplant Jubilee (Condition)**\n- Large Taco-Lime = **Tacrolimus (Higher Risk CNI)**\n- Smaller Cycle-Sport Bull = **Cyclosporine (Lower Risk CNI)**\n- Cowl-Neck Sweater = **Calcineurin Inhibitor class**\n- Broken mTOR Motor = **Sirolimus (mTOR Inhibitor Risk)**\n- High Candy Bowl = **Hyperglycemia/Diabetes**\n- People Lifting Large Dumbbell = **Lack of pre-transplant physical activity**\n- Locked Gate + Broken Key = **Insulin Resistance (Mechanism)**\n- Broken Faucet on Pancreas Sink = **Beta-cell dysfunction (Mechanism)**\n- Dr. Pepper Character = **DPP-4 Inhibitor (Management; e.g., sitagliptin)**\n"
+  },
+  "images/neuro/nmo.png": {
+    "title": "NMO — NMO Land",
+    "tags": [
+      "nmo",
+      "neuro"
+    ],
+    "notes": "AQP4-antibody astrocytopathy with optic neuritis and longitudinally extensive myelitis; IFN-beta/natalizumab worsen it.\n\nANCHORS:\n- \"NMO LAND\" sign = **Neuromyelitis Optica (NMOSD)**\n- Aquaman punching porpoise = **Anti-AQP4 (anti-aquaporin-4) IgG (pathognomonic antibody)**\n- Cyclops with broken glowing visor = **Optic Neuritis (severe, often bilateral; may cause permanent vision loss)**\n- Professor X with broken spine statue = **Acute Transverse Myelitis (LETM >=3 vertebral segments; para/quadriplegia)**\n- Vomiting pie-contest = **Area Postrema Syndrome (intractable nausea/vomiting/hiccups; pathognomonic)**\n- Sleeping Snorlax = **Narcolepsy / Brainstem Syndrome (hypothalamic/brainstem involvement)**\n- Bane with \"STEROIDS\" = **High-dose Glucocorticoids (IV methylprednisolone; first-line for acute attacks)**\n- Ghostbusters trapping \"PLASMA\" ghosts = **Plasmapheresis (steroid-refractory severe attacks; removes AQP4-IgG)**\n- Elsa freezing \"C5\" bomb = **Eculizumab (anti-C5 complement inhibitor; maintenance)**\n- Incredible Hulk smashing \"CD19\" tank = **Inebilizumab (anti-CD19; B-cell depletion; maintenance)**\n- AT-AT Walker crushing \"IL-6\" base = **Satralizumab (anti-IL-6R; maintenance)**\n- Pregnant knight + \"BETA\" fish at DO NOT ENTER sign = **Natalizumab AND IFN-beta CONTRAINDICATED in NMOSD (both worsen disease; key distinction from MS)**\n"
+  },
+  "images/neuro/migraine-prophylaxis.png": {
+    "title": "Migraine Prophylaxis — Fort Prophylaxis",
+    "tags": [
+      "migraine",
+      "prophylaxis",
+      "neuro"
+    ],
+    "notes": "Preventive migraine agents - beta-blockers, topiramate/valproate, venlafaxine, amitriptyline, candesartan, and CGRP mAbs.\n\nANCHORS:\n- FORT PROPHYLAXIS wall = **Goal = migraine prevention/prophylaxis**\n- Bell gauge 5 days = **>=5 headache days/month = Consider prophylaxis**\n- Bell gauge 10 days = **>=10 headache days/month = Initiate prophylaxis**\n- Vending machine dispensing Faxes = **Venlafaxine (SNRI)**\n- Mute Minstrels on battlements = **Beta-blockers (class mnemonic)**\n- Propeller Hat Musician = **Propranolol**\n- Stopwatch Musician = **Timolol**\n- Metal Robot Musician = **Metoprolol**\n- Musician with $10 Bill = **Atenolol**\n- Man in Top Hat = **Topiramate (anticonvulsant)**\n- Valet Parking Attendant = **Valproate / valproic acid**\n- Knight on Tricycle = **Amitriptyline (TCA - tricycle = tricyclic)**\n- Spartan eating Candy = **Candesartan (ARB)**\n- CGRP SQUAD armored crabs = **CGRP monoclonal antibodies**\n- Eren Yeager titan crab = **Erenumab (anti-CGRP receptor; unique)**\n- Other armored crabs = **Fremanezumab, Eptinezumab, Galcanezumab (anti-CGRP ligand)**\n"
+  },
+  "images/heme-onc/mek-inhibitors.png": {
+    "title": "MEK Inhibitors — The Mech-Suit on the Bamboo Raft",
+    "tags": [
+      "mek",
+      "inhibitors",
+      "heme-onc"
+    ],
+    "notes": "Trametinib/cobimetinib block MEK1/2 in the MAPK pathway, combined with BRAF inhibitors in V600E melanoma.\n\nANCHORS:\n- Mech-Suit = **MEK1/2 (downstream kinases in MAPK pathway)**\n- Tram Driver (conductor hat + miniature tram) = **Trametinib**\n- Cobra Emblem on chest plate = **Cobimetinib**\n- Bamboo RAFT (V600E sign) = **BRAF V600E mutation / BRAF inhibitor (combination partner)**\n- Mech-Suit reinforcing the raft = **MEK + BRAF combination therapy for metastatic melanoma**\n- Metal feet crushing new wood growth = **Reduced secondary SCC from paradoxical MAPK activation**\n- Static / snow on visor = **Ocular toxicity (RPED, central serous retinopathy)**\n- Acne-covered rusty armor = **Acneiform dermatitis**\n- Sasquatch swimming behind raft = **Background scene / setting anchor**\n"
+  },
+  "images/heme-onc/ctla-4-inhibitors.png": {
+    "title": "CTLA-4 Inhibitors — Captain Hippo's Cutlass Crew",
+    "tags": [
+      "ctla",
+      "4",
+      "inhibitors",
+      "heme-onc"
+    ],
+    "notes": "Ipilimumab blocks CTLA-4 to enhance T-cell activation; hypophysitis is a hallmark immune-related effect.\n\nANCHORS:\n- Captain Hippo = **Ipilimumab**\n- Cutlass = **CTLA-4 inhibitor**\n- B-7 Bee = **B7 Ligand (on APC)**\n- CD Player = **CD28 (on T-Cell)**\n- Bee landing on CD Player = **Costimulation / T-cell activation**\n- Peach Pit = **Hypophysitis (Pituitary inflammation)**\n- Muddy Deck = **Colitis / Diarrhea**\n- Red Barnacles = **Dermatitis / Pruritus**\n- Liver Flag = **Hepatitis**\n"
+  },
+  "images/neuro/temporal-lobe-epilepsy.png": {
+    "title": "Temporal Lobe Epilepsy — The Temporal-Lobe Time Machine",
+    "tags": [
+      "temporal",
+      "lobe",
+      "epilepsy",
+      "neuro"
+    ],
+    "notes": "Most common focal epilepsy; auras, oroalimentary automatisms, postictal confusion, and hippocampal sclerosis on MRI.\n\nANCHORS:\n- \"TEMPORAL-LOBE TIME MACHINE\" (central machine) = **Temporal Lobe Epilepsy (TLE)**\n- \"PILOT AGE < 20\" = **Onset typically before age 20**\n- Scared character in sensory intake tube = **Fear / Deja vu aura (psychic aura)**\n- Food critic tasting soup with swirling stomach = **Epigastric aura / Nausea, Taste/Smell auras**\n- \"30s - 2m SEIZURE DURATION\" timer = **Seizures last 30 seconds to 2 minutes**\n- Pilot staring blankly = **Behavioral arrest + impaired consciousness**\n- Robotic arms labeled \"PICKING\" = **Manual picking automatism**\n- Robotic arm labeled \"LIP SMACKING\" = **Oroalimentary automatisms (lip smacking, chewing)**\n- Dazed pilot in foggy \"RECOVERY BAY\" labeled \"BRIEF CONFUSION\" = **Postictal confusion (brief; absent in absence seizures)**\n- \"EEG DISCHARGES (TEMPORAL REGION)\" brain wave monitor = **EEG: temporal sharp waves/spike discharges**\n- \"HIPPOCAMPAL ATROPHY (MRI)\" brain scan + seahorse = **MRI: hippocampal sclerosis (most common structural cause)**\n"
+  },
+  "images/neuro/essential-tremor-treatment.png": {
+    "title": "Essential Tremor Treatment — The Essential Tremors",
+    "tags": [
+      "essential",
+      "tremor",
+      "treatment",
+      "neuro"
+    ],
+    "notes": "Action tremor treated first-line with propranolol/primidone; DBS or focused-ultrasound thalamotomy for refractory cases.\n\nANCHORS:\n- \"THE ESSENTIAL TREMORS\" band banner = **Essential Tremor (ET) condition name**\n- Guitarist with \"PROP\" propeller on guitar = **Propranolol (non-selective beta-blocker, first-line)**\n- Drummer with permed hair, bass drum reads \"PERM DONE\" = **Primidone (barbiturate, first-line)**\n- Keyboardist wearing Top Hat = **Topiramate (antiepileptic, first-line)**\n- Backup singer labeled \"(2nd LINE)\" with Zz floating above head = **Clonazepam (benzodiazepine, second-line; Zz = sedation)**\n- Operator at control panel with wires into brain \"DEEP-BRAIN STIMULATION (DBS - UNI/BILATERAL)\" = **DBS (electrode in VIM nucleus; unilateral or bilateral)**\n- Operator with ray gun labeled \"FUS\" shooting beam at single brain point = **FUS thalamotomy (non-invasive ablation of VIM; unilateral only)**\n"
+  },
+  "images/id/respiratory-fluoroquinolones.png": {
+    "title": "Respiratory Fluoroquinolones — Moxxi's High-Oxygen Lounge",
+    "tags": [
+      "respiratory",
+      "fluoroquinolones",
+      "id"
+    ],
+    "notes": "Moxifloxacin, levofloxacin, gemifloxacin - fluoroquinolones with S. pneumoniae/atypical coverage for CAP (not ciprofloxacin).\n\nANCHORS:\n- Lung-shaped neon sign = **Respiratory Fluoroquinolones (the class identifier)**\n- Mad Moxxi holding a Fluoro-Flower = **Moxifloxacin**\n- Carpenter using a Level to hang the lung sign = **Levofloxacin**\n- Gem-filled decorative Moat in the VIP area = **Gemifloxacin**\n- Fluoro-Flower (recurring motif) = **Fluoroquinolone class (-floxacin suffix)**\n- High-Oxygen Lounge setting = **Respiratory specificity (these cover the lungs)**\n- Ciprofloxacin notably absent = **No adequate S. pneumoniae coverage -> NOT a respiratory quinolone**\n"
+  },
+  "images/pulm/nintedanib.png": {
+    "title": "Nintedanib — The Nintedanib Arcade",
+    "tags": [
+      "nintedanib",
+      "pulm"
+    ],
+    "notes": "Triple tyrosine kinase inhibitor (VEGFR/PDGFR/FGFR) for idiopathic pulmonary fibrosis and SSc-ILD.\n\nANCHORS:\n- Nintendo Console = **Nintedanib (phonetic anchor)**\n- Three Swinging Tires = **Triple Tyrosine Kinase receptors (VEGFR, PDGFR, FGFR)**\n- V-Deck = **VEGFR (Vascular Endothelial Growth Factor Receptor)**\n- P-Deck = **PDGFR (Platelet-Derived Growth Factor Receptor)**\n- F-Deck = **FGFR (Fibroblast Growth Factor Receptor)**\n- \"Pause\" Power-Up = **Inhibition of downstream fibroblast proliferation**\n- Stiff Honeycomb Wall = **Idiopathic Pulmonary Fibrosis (IPF)**\n- Scleroderma Snake = **SSc-ILD (Systemic Sclerosis-Associated ILD)**\n- Spilled Brown Soda = **Diarrhea / GI upset (most common side effect)**\n- Liver Fuel Gauge (flashing red) = **Hepatotoxicity (monitor ALT/AST)**\n"
+  },
+  "images/rheum/relapsing-polychondritis-polka-party.png": {
+    "title": "Relapsing Polychondritis — The Relapsing Polka Party",
+    "tags": [
+      "relapsing",
+      "polychondritis",
+      "polka",
+      "party",
+      "rheum"
+    ],
+    "notes": "Relapsing autoimmune cartilage destruction - auricular chondritis sparing earlobe, saddle nose, laryngotracheal collapse.\n\nANCHORS:\n- \"Relapsing Polka Party\" = **Relapsing Polychondritis (RP) - autoimmune destruction of cartilaginous structures**\n- \"Re-Lapsing\" DJ Booth = **Relapsing-remitting course (flares and partial remissions)**\n- Bunny with Red Ears (tuba player) = **Auricular Chondritis (most common, ~90%; earlobe SPARED - differentiates from cellulitis)**\n- Horse with the Accordion = **Nasal Chondritis -> \"Saddle Nose\" Deformity**\n- Choking Singer (red throat, gasping) = **Laryngotracheal Stenosis (most life-threatening complication)**\n- Drummer with bandaged wrists = **Non-erosive Polyarthritis (~50-70%; seronegative, non-deforming)**\n- Curtain pattern of red, angry eyes = **Episcleritis / Scleritis / Uveitis (ocular inflammation)**\n- \"Volume\" Meter red-lining = **Elevated ESR and CRP during active flares (no specific serology; clinical diagnosis)**\n- Moon Face Bouncer = **Corticosteroids (mainstay of acute flare management)**\n- Meat Stick guard (left) = **Methotrexate (steroid-sparing maintenance)**\n- Azalea plant guard (right) = **Azathioprine (steroid-sparing maintenance)**\n"
+  },
+  "images/pulm/inhaled-corticosteroids.png": {
+    "title": "Inhaled Corticosteroids (ICS) — The ICS Day-Clock",
+    "tags": [
+      "inhaled",
+      "corticosteroids",
+      "pulm"
+    ],
+    "notes": "Inhaled corticosteroids classified by duration of action for asthma/COPD.\n\nANCHORS:\n- Bee-cloak wizard = **Beclomethasone (short-acting ICS)**\n- Bubble soda knight = **Budesonide (short-acting ICS)**\n- Flute-snow slide kid = **Flunisolide (short-acting ICS)**\n- Flute-prop pilot hovering on propeller = **Fluticasone propionate (intermediate-acting ICS)**\n- Mom with stopwatch (Mom-meter) = **Mometasone (intermediate-acting ICS)**\n- Flute-fur oat farmer working until sunset = **Fluticasone furoate (longest-acting fluticasone; once daily)**\n- Cycling knight under the evening sun = **Ciclesonide (long-acting ICS; prodrug activated in the lung)**\n"
+  },
+  "images/pulm/anticholinergics-sama-lama.png": {
+    "title": "Anticholinergics (SAMA/LAMA) — The Unmasking of the Airship",
+    "tags": [
+      "anticholinergics",
+      "sama",
+      "lama",
+      "pulm"
+    ],
+    "notes": "Muscarinic M3 antagonists - ipratropium (SAMA) and tiotropium/aclidinium/umeclidinium (LAMA) for COPD.\n\nANCHORS:\n- Purple M3 Masks = **Muscarinic M3 receptors (causing bronchoconstriction)**\n- Unmasking ceremony = **Anticholinergic mechanism (M3 receptor blockade -> bronchodilation)**\n- Airship vents = **Bronchioles**\n- Midget Pilot taking iPhone selfie = **Ipratropium (SAMA - short-acting, quick action)**\n- T.I. Titan = **Tiotropium (LAMA)**\n- Hillary Clinton Titan = **Aclidinium (LAMA)**\n- Gundam Titan = **Umeclidinium (LAMA)**\n"
+  }
+}
