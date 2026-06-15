@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mnemonic Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#F3F5F5;
+    --card:#FFFFFF;
+    --ink:#19232A;
+    --muted:#5E6E76;
+    --line:#E0E6E7;
+    --accent:#0E7C7B;
+    --accent-soft:#D7ECEB;
+    --shadow:0 1px 2px rgba(25,35,42,.04),0 6px 20px rgba(25,35,42,.06);
+    --radius:14px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"Inter",system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--accent)}
+
+  /* ---- top bar ---- */
+  .topbar{
+    position:sticky;top:0;z-index:30;
+    background:rgba(243,245,245,.82);
+    backdrop-filter:saturate(140%) blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .topbar-inner{
+    max-width:1180px;margin:0 auto;padding:14px 22px;
+    display:flex;align-items:center;gap:18px;flex-wrap:wrap;
+  }
+  .brand{display:flex;align-items:baseline;gap:10px;margin-right:auto}
+  .brand h1{
+    font-family:"Bricolage Grotesque",sans-serif;
+    font-weight:700;font-size:21px;letter-spacing:-.02em;margin:0;
+  }
+  .brand .count{
+    font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted);
+    border:1px solid var(--line);border-radius:999px;padding:2px 9px;background:var(--card);
+  }
+  .search{position:relative;flex:1 1 280px;max-width:420px;min-width:200px}
+  .search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);color:var(--muted)}
+  .search input{
+    width:100%;padding:11px 14px 11px 38px;
+    border:1px solid var(--line);border-radius:10px;background:var(--card);
+    font:inherit;font-size:14px;color:var(--ink);
+  }
+  .search input::placeholder{color:#9AA8AD}
+  .search input:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+  .search kbd{
+    position:absolute;right:10px;top:50%;transform:translateY(-50%);
+    font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);
+    border:1px solid var(--line);border-radius:5px;padding:1px 6px;background:var(--bg);
+  }
+
+  /* ---- filter chips ---- */
+  .filters{max-width:1180px;margin:0 auto;padding:16px 22px 4px;display:flex;gap:8px;flex-wrap:wrap}
+  .chip{
+    font:inherit;font-size:13px;font-weight:500;
+    border:1px solid var(--line);background:var(--card);color:var(--muted);
+    padding:7px 14px;border-radius:999px;cursor:pointer;transition:all .14s ease;
+  }
+  .chip:hover{border-color:#C5D0D2;color:var(--ink)}
+  .chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+  .chip:focus-visible{outline:none;box-shadow:0 0 0 3px var(--accent-soft)}
+
+  /* ---- demo banner ---- */
+  .demo{
+    max-width:1180px;margin:14px auto 0;padding:10px 16px;
+    background:#FFF7E6;border:1px solid #F0D98A;border-radius:10px;
+    font-size:13px;color:#7A5B12;display:flex;gap:10px;align-items:center;
+  }
+  .demo b{font-weight:600}
+  .demo[hidden]{display:none}
+
+  /* ---- grid ---- */
+  .grid-wrap{max-width:1180px;margin:0 auto;padding:18px 22px 80px}
+  .grid{
+    display:grid;gap:18px;
+    grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+  }
+  .card{
+    position:relative;
+    background:var(--card);border:1px solid var(--line);border-radius:var(--radius);
+    overflow:hidden;cursor:pointer;box-shadow:var(--shadow);
+    transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease;
+    display:flex;flex-direction:column;
+  }
+  .card:hover{transform:translateY(-3px);box-shadow:0 4px 8px rgba(25,35,42,.06),0 16px 36px rgba(25,35,42,.10);border-color:#CFE2E1}
+  .card:focus-visible{outline:none;box-shadow:0 0 0 3px var(--accent-soft)}
+  .thumb{aspect-ratio:4/3;background:#EDF1F1;display:block;width:100%;object-fit:cover}
+  .meta{padding:11px 13px 13px}
+  .meta .title{font-size:14px;font-weight:500;line-height:1.3;letter-spacing:-.01em}
+  .meta .sys{
+    margin-top:7px;font-family:"IBM Plex Mono",monospace;font-size:11px;
+    color:var(--accent);text-transform:uppercase;letter-spacing:.04em;
+  }
+
+  .empty{
+    text-align:center;padding:70px 20px;color:var(--muted);
+  }
+  .empty h2{font-family:"Bricolage Grotesque",sans-serif;color:var(--ink);font-size:20px;margin:0 0 8px}
+  .empty code{font-family:"IBM Plex Mono",monospace;background:var(--card);border:1px solid var(--line);padding:1px 6px;border-radius:5px;font-size:13px}
+
+  /* ---- card notes badge ---- */
+  .note-badge{
+    position:absolute;top:9px;right:9px;
+    background:rgba(14,124,123,.92);color:#fff;
+    font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.05em;
+    padding:2px 7px;border-radius:999px;
+  }
+
+  /* ---- lightbox / detail view ---- */
+  .lb{
+    position:fixed;inset:0;z-index:60;display:none;overflow-y:auto;
+    background:rgba(15,21,24,.84);backdrop-filter:blur(4px);
+  }
+  .lb.open{display:block}
+  .lb-scroll{min-height:100%;display:flex;align-items:flex-start;justify-content:center;padding:54px 18px 48px}
+  .lb-panel{
+    background:var(--card);border-radius:16px;max-width:880px;width:100%;
+    overflow:hidden;box-shadow:0 24px 70px rgba(0,0,0,.45);
+  }
+  .lb-imgwrap{background:#0F1518;display:flex;align-items:center;justify-content:center;padding:16px}
+  .lb-imgwrap img{max-width:100%;max-height:62vh;border-radius:8px;display:block}
+  .lb-body{padding:22px 28px 30px}
+  .lb-body .t{font-family:"Bricolage Grotesque",sans-serif;font-weight:700;font-size:22px;letter-spacing:-.02em;line-height:1.2}
+  .lb-body .s{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--accent);text-transform:uppercase;letter-spacing:.05em;margin-top:6px}
+  .lb-notes{margin-top:18px;border-top:1px solid var(--line);padding-top:18px;font-size:15px;line-height:1.62;color:#2A3942}
+  .lb-notes p{margin:0 0 12px}
+  .lb-notes p.md-h{font-family:"Bricolage Grotesque",sans-serif;font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:18px 0 10px}
+  .lb-notes ul{margin:0 0 12px;padding-left:0;list-style:none}
+  .lb-notes li{position:relative;padding-left:20px;margin-bottom:9px}
+  .lb-notes li:before{content:"";position:absolute;left:4px;top:9px;width:6px;height:6px;border-radius:50%;background:var(--accent)}
+  .lb-notes strong{font-weight:600;color:var(--ink)}
+  .lb-notes code{font-family:"IBM Plex Mono",monospace;font-size:.88em;background:var(--bg);border:1px solid var(--line);border-radius:4px;padding:1px 5px}
+  .lb-notes a{color:var(--accent)}
+  .lb-btn{
+    position:fixed;top:50%;transform:translateY(-50%);z-index:61;
+    width:46px;height:46px;border-radius:50%;border:1px solid rgba(255,255,255,.25);
+    background:rgba(255,255,255,.12);color:#fff;cursor:pointer;font-size:20px;
+    display:flex;align-items:center;justify-content:center;transition:background .14s;
+  }
+  .lb-btn:hover{background:rgba(255,255,255,.24)}
+  .lb-prev{left:20px}.lb-next{right:20px}
+  .lb-close{position:fixed;top:18px;right:20px;transform:none}
+  @media(max-width:560px){.lb-prev{left:8px}.lb-next{right:8px}.lb-btn{width:40px;height:40px}.lb-body{padding:18px 18px 24px}}
+
+  @media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <h1>Mnemonic Library</h1>
+        <span class="count" id="count">—</span>
+      </div>
+      <div class="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="Search images…" autocomplete="off" aria-label="Search images" />
+        <kbd>/</kbd>
+      </div>
+    </div>
+    <div class="filters" id="filters"></div>
+  </header>
+
+  <div class="demo" id="demoBanner" hidden>
+    <span>🧪</span><span><b>Demo mode.</b> No <code style="background:#fff3d6;border:1px solid #e8cf86;padding:0 5px;border-radius:4px">manifest.json</code> found, so these are placeholders. Add your images and push to replace them.</span>
+  </div>
+
+  <main class="grid-wrap">
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" hidden>
+      <h2>Nothing matches that</h2>
+      <p>Try a different search or clear the filter.</p>
+    </div>
+  </main>
+
+  <div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Image viewer">
+    <button class="lb-btn lb-close" id="lbClose" aria-label="Close">✕</button>
+    <button class="lb-btn lb-prev" id="lbPrev" aria-label="Previous">‹</button>
+    <button class="lb-btn lb-next" id="lbNext" aria-label="Next">›</button>
+    <div class="lb-scroll">
+      <div class="lb-panel" id="lbPanel"></div>
+    </div>
+  </div>
+
+<script>
+const els = {
+  grid: document.getElementById('grid'),
+  filters: document.getElementById('filters'),
+  q: document.getElementById('q'),
+  count: document.getElementById('count'),
+  empty: document.getElementById('empty'),
+  demo: document.getElementById('demoBanner'),
+  lb: document.getElementById('lb'),
+  lbPanel: document.getElementById('lbPanel'),
+};
+
+let ALL = [];        // all images
+let VIEW = [];       // currently filtered+sorted
+let activeSystem = 'All';
+let query = '';
+let lbIndex = -1;
+
+// --- demo placeholders (only used if manifest.json is missing) ---
+function demoTile(label, sys, hue){
+  const svg = `<svg xmlns='http://www.w3.org/2000/svg' width='400' height='300'>
+    <defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0' stop-color='hsl(${hue},45%,90%)'/><stop offset='1' stop-color='hsl(${hue},40%,78%)'/>
+    </linearGradient></defs>
+    <rect width='400' height='300' fill='url(#g)'/>
+    <text x='50%' y='50%' font-family='sans-serif' font-size='20' fill='hsl(${hue},40%,32%)' text-anchor='middle' dominant-baseline='middle'>${label}</text>
+  </svg>`;
+  return 'data:image/svg+xml;utf8,'+encodeURIComponent(svg);
+}
+const DEMO = [
+  {title:'Thyroid Storm — Burning House', system:'Endo', src:demoTile('Thyroid Storm','Endo',180), tags:['thyroid','hyperthyroid'],
+   notes:"ANCHORS:\n- Burning house = **thyroid storm** (life-threatening hyperthyroid crisis)\n- Racing fire engine = **tachycardia / arrhythmia**\n- Thermometer bursting = **hyperthermia**\n- Trembling firefighter = **agitation, tremor, delirium**\n\nPrecipitated by infection, surgery, or trauma in a hyperthyroid patient. Treat with **beta-blocker → thionamide → iodine** (in that order), plus steroids."},
+  {title:'Cushing — Round Moon Face', system:'Endo', src:demoTile('Cushing','Endo',180), tags:['adrenal','cortisol']},
+  {title:'DKA — Fruity Dragon', system:'Endo', src:demoTile('DKA','Endo',180), tags:['diabetes','acidosis'],
+   notes:"- Fruity breath dragon = **fruity (acetone) breath**\n- Deep bellows breathing = **Kussmaul respirations**\n- Dehydrated cracked ground = **osmotic diuresis / volume depletion**\n\nHigh anion-gap metabolic acidosis with ketones. Management: **fluids, insulin, potassium repletion.**"},
+  {title:'Addison — Bronzed Lifeguard', system:'Endo', src:demoTile('Addison','Endo',180), tags:['adrenal']},
+  {title:'Palopegteriparatide — Peg-leg Pterodactyl', system:'Endo', src:demoTile('Palopegteriparatide','Endo',180), tags:['pth','hypoparathyroidism','pharm'],
+   notes:"ANCHORS:\n- Pal + Peg + Ptero + Para + -tide = **Palopegteriparatide** (name anchor)\n- Button-less PthD coat in the trash = indicated for **hypoparathyroidism** (absent PTH; this is the replacement)\n- Pterodactyl taking flight = **pegylated prodrug of PTH 1-34** (linker temporarily inactivates it)\n- Full-day clock unwinding = **24-hour sustained release** of active PTH\n- Overflowing Calci-Yum mountain = **hypercalcemia** (key AE — monitor Ca²⁺, titrate dose)\n- Aching skeleton gripping knees = **arthralgia**"},
+  {title:'Beta Blocker — Bull Blocker', system:'Cardio', src:demoTile('Beta Blocker','Cardio',8), tags:['pharm']},
+  {title:'AFib — Quivering Jellyfish', system:'Cardio', src:demoTile('AFib','Cardio',8), tags:['arrhythmia']},
+  {title:'Statin — Stop Sign Lever', system:'Cardio', src:demoTile('Statin','Cardio',8), tags:['lipids','pharm']},
+  {title:'HHT — Spider-Suit Mechanic', system:'Genetics', src:demoTile('HHT','Genetics',300), tags:['osler-weber-rendu','avm'],
+   notes:"ANCHORS:\n- Spider-web suit = **telangiectasias** (spider-like vessels)\n- Bloody nose = recurrent **epistaxis**\n- Tangled red/blue hoses under the hood = **arteriovenous malformations (AVMs)**\n\n**Hereditary Hemorrhagic Telangiectasia (Osler–Weber–Rendu)** — autosomal dominant. Pulmonary AVMs → paradoxical **embolic stroke + brain abscess**; cerebral AVMs → **hemorrhagic stroke**; GI telangiectasias → chronic **GI bleeding**."},
+  {title:'Stroke — Cracked Clock Tower', system:'Neuro', src:demoTile('Stroke','Neuro',265), tags:['cva']},
+  {title:'MS — Frayed Wires', system:'Neuro', src:demoTile('MS','Neuro',265), tags:['demyelination']},
+];
+
+async function load(){
+  try{
+    const res = await fetch('manifest.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('no manifest');
+    const data = await res.json();
+    ALL = (data.images||data||[]).map(normalize);
+    if(!ALL.length) throw new Error('empty manifest');
+  }catch(e){
+    ALL = DEMO.map(normalize);
+    els.demo.hidden = false;
+  }
+  buildFilters();
+  apply();
+}
+
+function normalize(it){
+  return {
+    title: it.title || prettify(it.src||it.file||'untitled'),
+    system: it.system || 'Uncategorized',
+    src: it.src || it.file || it.path,
+    tags: it.tags || [],
+    notes: it.notes || it.explanation || '',
+  };
+}
+function prettify(p){
+  return (p.split('/').pop()||'').replace(/\.[a-z0-9]+$/i,'').replace(/[_-]+/g,' ').trim();
+}
+
+function buildFilters(){
+  const systems = ['All', ...Array.from(new Set(ALL.map(i=>i.system))).sort()];
+  els.filters.innerHTML = '';
+  systems.forEach(s=>{
+    const b = document.createElement('button');
+    b.className='chip';
+    b.textContent = s;
+    b.setAttribute('aria-pressed', s===activeSystem);
+    b.onclick = ()=>{ activeSystem=s; [...els.filters.children].forEach(c=>c.setAttribute('aria-pressed', c.textContent===s)); apply(); };
+    els.filters.appendChild(b);
+  });
+}
+
+function apply(){
+  const q = query.toLowerCase();
+  VIEW = ALL.filter(i=>{
+    if(activeSystem!=='All' && i.system!==activeSystem) return false;
+    if(!q) return true;
+    return (i.title+' '+i.system+' '+i.tags.join(' ')+' '+i.notes).toLowerCase().includes(q);
+  });
+  render();
+}
+
+function render(){
+  els.count.textContent = VIEW.length + (VIEW.length===1?' image':' images');
+  els.grid.innerHTML='';
+  els.empty.hidden = VIEW.length>0;
+  VIEW.forEach((it,idx)=>{
+    const card = document.createElement('button');
+    card.className='card';
+    card.setAttribute('aria-label', 'View '+it.title);
+    card.innerHTML = `
+      <img class="thumb" loading="lazy" src="${it.src}" alt="${escapeHtml(it.title)}">
+      ${it.notes ? '<span class="note-badge">NOTES</span>' : ''}
+      <div class="meta">
+        <div class="title">${escapeHtml(it.title)}</div>
+        <div class="sys">${escapeHtml(it.system)}</div>
+      </div>`;
+    card.onclick = ()=>openLb(idx);
+    els.grid.appendChild(card);
+  });
+}
+
+function escapeHtml(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+
+// --- tiny markdown renderer (bold, italic, code, links, bullets, headings) ---
+function mdToHtml(md){
+  if(!md) return '';
+  const esc = s => s.replace(/[&<>]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+  const inline = s => esc(s)
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/(^|[^*])\*([^*]+)\*/g, '$1<em>$2</em>')
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    .replace(/\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  const lines = md.replace(/\r/g,'').split('\n');
+  let html = '', inList = false;
+  const closeList = ()=>{ if(inList){ html += '</ul>'; inList = false; } };
+  for(const raw of lines){
+    const line = raw.replace(/\s+$/,'');
+    const bullet = line.match(/^\s*[-*•]\s+(.*)$/);
+    const head = line.match(/^\s*#{1,3}\s+(.*)$/);
+    if(bullet){ if(!inList){ html += '<ul>'; inList = true; } html += '<li>' + inline(bullet[1]) + '</li>'; }
+    else if(head){ closeList(); html += '<p class="md-h">' + inline(head[1]) + '</p>'; }
+    else if(line.trim() === ''){ closeList(); }
+    else { closeList(); html += '<p>' + inline(line) + '</p>'; }
+  }
+  closeList();
+  return html;
+}
+
+// --- detail view ---
+function openLb(idx){
+  lbIndex = idx;
+  const it = VIEW[idx];
+  els.lbPanel.innerHTML = `
+    <div class="lb-imgwrap"><img src="${it.src}" alt="${escapeHtml(it.title)}"></div>
+    <div class="lb-body">
+      <div class="t">${escapeHtml(it.title)}</div>
+      <div class="s">${escapeHtml(it.system)}</div>
+      ${it.notes ? '<div class="lb-notes">' + mdToHtml(it.notes) + '</div>' : ''}
+    </div>`;
+  els.lb.classList.add('open');
+  els.lb.scrollTop = 0;
+  document.body.style.overflow = 'hidden';
+}
+function closeLb(){ els.lb.classList.remove('open'); document.body.style.overflow=''; lbIndex=-1; }
+function step(d){ if(lbIndex<0) return; lbIndex=(lbIndex+d+VIEW.length)%VIEW.length; openLb(lbIndex); }
+
+document.getElementById('lbClose').onclick = closeLb;
+document.getElementById('lbPrev').onclick = ()=>step(-1);
+document.getElementById('lbNext').onclick = ()=>step(1);
+els.lb.addEventListener('click', e=>{ if(!e.target.closest('.lb-panel')) closeLb(); });
+
+els.q.addEventListener('input', e=>{ query=e.target.value; apply(); });
+
+document.addEventListener('keydown', e=>{
+  if(els.lb.classList.contains('open')){
+    if(e.key==='Escape') closeLb();
+    else if(e.key==='ArrowRight') step(1);
+    else if(e.key==='ArrowLeft') step(-1);
+    return;
+  }
+  if(e.key==='/' && document.activeElement!==els.q){ e.preventDefault(); els.q.focus(); }
+});
+
+load();
+</script>
+</body>
+</html>
