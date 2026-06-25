@@ -751,5 +751,17 @@
       "derm"
     ],
     "notes": "Acute febrile neutrophilic dermatosis — tender erythematous plaques with a dense dermal neutrophilic infiltrate (no vasculitis); associated with malignancy (classically AML); responds rapidly to glucocorticoids.\n\nANCHORS:\n- SWEET Heart candy mascot = **Sweet Syndrome (acute febrile neutrophilic dermatosis)**\n- Flaming headband (mascot sweating) = **Acute onset of high fever**\n- New-Trolls digging into the middle cake layer = **Dense neutrophilic infiltrate in the dermis**\n- Intact red licorice ropes in the cake = **No true vasculitis**\n- Tender red gummy drops on the floor = **Tender erythematous/violaceous papules and plaques**\n- Un-poppable solid \"juicy\" gummies = **Pseudovesicular/pseudopustular look (solid, from severe dermal edema)**\n- White jawbreakers spilling on a carpet = **Neutrophilic leukocytosis + elevated ESR/CRP**\n- Cursed glowing amulet = **Strong association with malignancy, classically Acute Myeloid Leukemia (AML)**\n- Sticky glue-cords from the ceiling = **Systemic glucocorticoids (first-line; rapid response)**\n"
+  },
+  "images/endo/hashimoto-thyroiditis.png": {
+    "title": "Hashimoto's Thyroiditis — Dr. No's Island Base",
+    "tags": [
+      "hashimoto",
+      "hashimoto thyroiditis",
+      "chronic lymphocytic thyroiditis",
+      "hypothyroidism",
+      "autoimmune thyroid",
+      "endo"
+    ],
+    "notes": "Autoimmune (chronic lymphocytic) thyroiditis — the most common cause of hypothyroidism; risk factors include head/neck radiation, female sex, and HLA-DR3/DR5; associated with multiple other autoimmune conditions.\n\nANCHORS:\n- Dr. No adjusting an oversized Bow-Tie = **Hashimoto's Thyroiditis (Bow-Tie = thyroid)**\n- Glowing radioactive laser beam = **Prior head & neck radiation exposure (risk factor)**\n- Female assassin leading the charge = **High female prevalence (female sex risk)**\n- Trident (3) and thrown starfish (5) = **HLA-DR3 and HLA-DR5 association**\n- U-turning spy car = **Turner syndrome association**\n- Crashing bread truck = **Celiac disease association**\n- Moonwalking Michael Jackson = **Vitiligo association**\n- Perm-haired guard dog = **Pernicious anemia association**\n- Henchman sweating in a puffy Down jacket = **Down syndrome association**\n"
   }
 }
