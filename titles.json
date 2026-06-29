@@ -763,5 +763,18 @@
       "endo"
     ],
     "notes": "Autoimmune (chronic lymphocytic) thyroiditis — the most common cause of hypothyroidism; risk factors include head/neck radiation, female sex, and HLA-DR3/DR5; associated with multiple other autoimmune conditions.\n\nANCHORS:\n- Dr. No adjusting an oversized Bow-Tie = **Hashimoto's Thyroiditis (Bow-Tie = thyroid)**\n- Glowing radioactive laser beam = **Prior head & neck radiation exposure (risk factor)**\n- Female assassin leading the charge = **High female prevalence (female sex risk)**\n- Trident (3) and thrown starfish (5) = **HLA-DR3 and HLA-DR5 association**\n- U-turning spy car = **Turner syndrome association**\n- Crashing bread truck = **Celiac disease association**\n- Moonwalking Michael Jackson = **Vitiligo association**\n- Perm-haired guard dog = **Pernicious anemia association**\n- Henchman sweating in a puffy Down jacket = **Down syndrome association**\n"
+  },
+  "images/endo/consumptive-hypothyroidism.png": {
+    "title": "Consumptive Hypothyroidism — The Nursery of Doom",
+    "tags": [
+      "consumptive hypothyroidism",
+      "type 3 deiodinase",
+      "D3",
+      "infantile hemangioma",
+      "reverse T3",
+      "hypothyroidism",
+      "endo"
+    ],
+    "notes": "Hypothyroidism from accelerated thyroid hormone degradation — vascular tumors (infantile hemangiomas) overexpress Type 3 deiodinase (D3), which inactivates T4/T3 and generates reverse T3; needs massive levothyroxine plus treatment of the tumor.\n\nANCHORS:\n- \"Consumer\" monster chewing up Bow-Ties = **Consumptive Hypothyroidism (Bow-Tie = thyroid)**\n- Strawberry \"He-Man\" toy = **Infantile hemangioma etiology (esp. hepatic hemangioendothelioma)**\n- Sci-fi Droid's Trident (3-pronged) = **Type 3 Deiodinase (D3) overexpression by the tumor**\n- Shredded four-leaf clovers (4) and tridents (3) = **Low Free T4 and Free T3 (consumed)**\n- Over-inflated T-Shirt balloon = **Elevated TSH (loss of negative feedback)**\n- Mirror reflecting a Reverse-Trident = **Markedly elevated Reverse T3 (rT3)**\n- Dump truck pouring clovers into the monster = **Massive continuous levothyroxine (T4) replacement**\n- Ceiling propeller slicing the Strawberry toy = **Treat the hemangioma (propranolol, steroids, or resection) for resolution**\n"
   }
 }
