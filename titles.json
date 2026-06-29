@@ -800,5 +800,19 @@
       "endo"
     ],
     "notes": "ATA low-risk papillary thyroid carcinoma — intrathyroidal, completely resected, no aggressive histology, no vascular invasion, no metastases, and minimal nodal involvement.\n\nANCHORS:\n- Bow-Tie Caterpillar lounging in a shallow kiddie pool = **Low-risk Papillary Thyroid Carcinoma**\n- \"No tall guys or hobnail boots\" sign = **No aggressive histology (tall cell, hobnail, columnar variants)**\n- Solid, unbroken pool walls = **Intrathyroidal tumor only (no extrathyroidal extension)**\n- Dusty, locked travel suitcase = **No distant metastases**\n- Clean, empty pool net = **Complete macroscopic tumor resection**\n- Intact red licorice pool noodles = **No vascular invasion**\n- Toy bucket with a Starfish (5) = **Clinical N0 or <=5 pathologic micrometastases (nodes <0.2 cm)**\n"
+  },
+  "images/endo/aps-type-1.png": {
+    "title": "APS Type 1 (APECED) — The Thyme Temple Ape",
+    "tags": [
+      "APS-1",
+      "APECED",
+      "autoimmune polyendocrine syndrome type 1",
+      "AIRE",
+      "hypoparathyroidism",
+      "candidiasis",
+      "addison",
+      "endo"
+    ],
+    "notes": "APS-1 (APECED) — autosomal recessive AIRE mutation causing failure of thymic central tolerance; classic triad of chronic mucocutaneous candidiasis, hypoparathyroidism, and Addison's disease, with ectodermal dystrophy.\n\nANCHORS:\n- Silver-backed Ape holding a single glowing Candle (1) = **APS Type 1 (Autoimmune Polyendocrine Syndrome type 1)**\n- The \"Thyme\" Temple = **Defect in central tolerance within the Thymus**\n- Hidden, broken \"AIR\" turbine = **AIRE (Autoimmune Regulator) gene mutation; hidden = autosomal recessive**\n- White candy-frosting caked on mouth/skin = **Chronic mucocutaneous candidiasis (usually first manifestation)**\n- Shredded \"PthD\" coat missing its buttons = **Hypoparathyroidism (autoimmune parathyroid destruction)**\n- Fatigued, deeply tanned Addison Rae dancing = **Addison's disease (primary adrenal insufficiency)**\n- Chipped teeth and brittle, cracked claws = **Ectodermal dystrophy (enamel hypoplasia, nail dystrophy, alopecia)**\n"
   }
 }
