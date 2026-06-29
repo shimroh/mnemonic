@@ -814,5 +814,20 @@
       "endo"
     ],
     "notes": "APS-1 (APECED) — autosomal recessive AIRE mutation causing failure of thymic central tolerance; classic triad of chronic mucocutaneous candidiasis, hypoparathyroidism, and Addison's disease, with ectodermal dystrophy.\n\nANCHORS:\n- Silver-backed Ape holding a single glowing Candle (1) = **APS Type 1 (Autoimmune Polyendocrine Syndrome type 1)**\n- The \"Thyme\" Temple = **Defect in central tolerance within the Thymus**\n- Hidden, broken \"AIR\" turbine = **AIRE (Autoimmune Regulator) gene mutation; hidden = autosomal recessive**\n- White candy-frosting caked on mouth/skin = **Chronic mucocutaneous candidiasis (usually first manifestation)**\n- Shredded \"PthD\" coat missing its buttons = **Hypoparathyroidism (autoimmune parathyroid destruction)**\n- Fatigued, deeply tanned Addison Rae dancing = **Addison's disease (primary adrenal insufficiency)**\n- Chipped teeth and brittle, cracked claws = **Ectodermal dystrophy (enamel hypoplasia, nail dystrophy, alopecia)**\n"
+  },
+  "images/endo/aps-type-2.png": {
+    "title": "APS Type 2 (Schmidt Syndrome) — The Primate Shoe Store",
+    "tags": [
+      "APS-2",
+      "schmidt syndrome",
+      "autoimmune polyendocrine syndrome type 2",
+      "HLA-DR3",
+      "HLA-DR4",
+      "addison",
+      "type 1 diabetes",
+      "hashimoto",
+      "endo"
+    ],
+    "notes": "APS-2 (Schmidt syndrome) — polygenic, HLA-DR3/DR4-associated, adult-female predominant; defined by Addison's disease plus autoimmune thyroid disease and/or type 1 diabetes.\n\nANCHORS:\n- Silver-backed Ape proudly trying on a Pair of Shoes (2) = **APS Type 2 (Schmidt syndrome)**\n- Two female doctors with a Trident (3) and a Four-Leaf Clover (4) = **Polygenic; HLA-DR3 and HLA-DR4; more common in adult females**\n- Dr. No pointing a gun at the ape = **Autoimmune thyroid disease (most commonly Hashimoto's thyroiditis)**\n- Tanned, fatigued Addison Rae on the fitting stool = **Addison's disease (primary adrenal insufficiency; required for APS-2)**\n- Pile of sugar cubes topped with one Candle (1) = **Type 1 Diabetes Mellitus**\n"
   }
 }
