@@ -776,5 +776,18 @@
       "endo"
     ],
     "notes": "Hypothyroidism from accelerated thyroid hormone degradation — vascular tumors (infantile hemangiomas) overexpress Type 3 deiodinase (D3), which inactivates T4/T3 and generates reverse T3; needs massive levothyroxine plus treatment of the tumor.\n\nANCHORS:\n- \"Consumer\" monster chewing up Bow-Ties = **Consumptive Hypothyroidism (Bow-Tie = thyroid)**\n- Strawberry \"He-Man\" toy = **Infantile hemangioma etiology (esp. hepatic hemangioendothelioma)**\n- Sci-fi Droid's Trident (3-pronged) = **Type 3 Deiodinase (D3) overexpression by the tumor**\n- Shredded four-leaf clovers (4) and tridents (3) = **Low Free T4 and Free T3 (consumed)**\n- Over-inflated T-Shirt balloon = **Elevated TSH (loss of negative feedback)**\n- Mirror reflecting a Reverse-Trident = **Markedly elevated Reverse T3 (rT3)**\n- Dump truck pouring clovers into the monster = **Massive continuous levothyroxine (T4) replacement**\n- Ceiling propeller slicing the Strawberry toy = **Treat the hemangioma (propranolol, steroids, or resection) for resolution**\n"
+  },
+  "images/endo/amiodarone-induced-thyrotoxicosis.png": {
+    "title": "Amiodarone-Induced Thyrotoxicosis — The Amoeba-Drone Lab",
+    "tags": [
+      "amiodarone",
+      "amiodarone-induced thyrotoxicosis",
+      "AIT",
+      "thyrotoxicosis",
+      "jod-basedow",
+      "destructive thyroiditis",
+      "endo"
+    ],
+    "notes": "Amiodarone-induced thyrotoxicosis (AIT) — two types: Type 1 = iodine-fueled excess synthesis in an abnormal gland (treat with thionamides); Type 2 = destructive thyroiditis releasing preformed hormone from a normal gland (treat with glucocorticoids).\n\nANCHORS:\n- Amoeba-Drone firing on Bow-Ties = **Amiodarone-induced thyrotoxicosis (Bow-Tie = thyroid)**\n- Giant glowing Candle (1) = **Type 1 AIT**\n- Drone dumping iodized salt into the furnace = **Excess iodine fuels hormone synthesis (Jod-Basedow)**\n- Tombstone furnace covered in wooden knots = **Type 1 occurs in pre-existing Graves' or multinodular goiter**\n- Flashing red-licorice radar = **Increased vascularity on color-flow Doppler (Type 1)**\n- Worker choking the pipe with a Thigh-Tie = **Thionamides (methimazole/PTU) block new synthesis (Type 1 tx)**\n- Pair of Shoes (2) = **Type 2 AIT**\n- Laser shattering a smooth glass bow-tie = **Destructive thyroiditis releasing preformed hormone from a normal gland**\n- Blank radar (empty of licorice) = **Decreased/absent vascularity on ultrasound (Type 2)**\n- Moon-helmet worker with glue-cords = **Systemic glucocorticoids halt inflammatory destruction (Type 2 tx)**\n"
   }
 }
