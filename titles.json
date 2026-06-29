@@ -789,5 +789,16 @@
       "endo"
     ],
     "notes": "Amiodarone-induced thyrotoxicosis (AIT) — two types: Type 1 = iodine-fueled excess synthesis in an abnormal gland (treat with thionamides); Type 2 = destructive thyroiditis releasing preformed hormone from a normal gland (treat with glucocorticoids).\n\nANCHORS:\n- Amoeba-Drone firing on Bow-Ties = **Amiodarone-induced thyrotoxicosis (Bow-Tie = thyroid)**\n- Giant glowing Candle (1) = **Type 1 AIT**\n- Drone dumping iodized salt into the furnace = **Excess iodine fuels hormone synthesis (Jod-Basedow)**\n- Tombstone furnace covered in wooden knots = **Type 1 occurs in pre-existing Graves' or multinodular goiter**\n- Flashing red-licorice radar = **Increased vascularity on color-flow Doppler (Type 1)**\n- Worker choking the pipe with a Thigh-Tie = **Thionamides (methimazole/PTU) block new synthesis (Type 1 tx)**\n- Pair of Shoes (2) = **Type 2 AIT**\n- Laser shattering a smooth glass bow-tie = **Destructive thyroiditis releasing preformed hormone from a normal gland**\n- Blank radar (empty of licorice) = **Decreased/absent vascularity on ultrasound (Type 2)**\n- Moon-helmet worker with glue-cords = **Systemic glucocorticoids halt inflammatory destruction (Type 2 tx)**\n"
+  },
+  "images/endo/papillary-thyroid-carcinoma-low-risk.png": {
+    "title": "Papillary Thyroid Carcinoma (Low Risk) — The Kiddie Pool",
+    "tags": [
+      "papillary thyroid carcinoma",
+      "thyroid cancer",
+      "ATA low risk",
+      "risk stratification",
+      "endo"
+    ],
+    "notes": "ATA low-risk papillary thyroid carcinoma — intrathyroidal, completely resected, no aggressive histology, no vascular invasion, no metastases, and minimal nodal involvement.\n\nANCHORS:\n- Bow-Tie Caterpillar lounging in a shallow kiddie pool = **Low-risk Papillary Thyroid Carcinoma**\n- \"No tall guys or hobnail boots\" sign = **No aggressive histology (tall cell, hobnail, columnar variants)**\n- Solid, unbroken pool walls = **Intrathyroidal tumor only (no extrathyroidal extension)**\n- Dusty, locked travel suitcase = **No distant metastases**\n- Clean, empty pool net = **Complete macroscopic tumor resection**\n- Intact red licorice pool noodles = **No vascular invasion**\n- Toy bucket with a Starfish (5) = **Clinical N0 or <=5 pathologic micrometastases (nodes <0.2 cm)**\n"
   }
 }
