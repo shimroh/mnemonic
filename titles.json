@@ -841,5 +841,18 @@
       "endo"
     ],
     "notes": "Surgical criteria for asymptomatic primary hyperparathyroidism (NIH consensus): parathyroidectomy is indicated for any one of age <50, serum calcium >1.0 mg/dL above normal, T-score <=-2.5 or fragility fracture, GFR <60, or 24-hour urine calcium >400 mg/day.\n\nANCHORS:\n- Parrot's Bow-Tie being snipped off by scissors = **Parathyroidectomy (surgical removal)**\n- Young boy under a low limbo bar holding a Starfish (5) and Bowling Pin (0) = **Age <50 years**\n- Overflowing Calci-Yum ice cream topped with one Candle (1) = **Serum calcium >1.0 mg/dL above the upper limit of normal**\n- Snapping bone with Shoes (2) and Starfish (5) in a negative trench = **T-score <=-2.5 (osteoporosis) or prior fragility fracture**\n- Dried kidney-bean dish with a sinking 60-minute clock = **GFR (creatinine clearance) <60 mL/min**\n- Leaky 24-hour clock dripping milk onto a four-leaf clover of $100 bills (4x100) forming kidney stones = **24-hour urine calcium >400 mg/day + increased nephrolithiasis risk**\n"
+  },
+  "images/endo/romosozumab.png": {
+    "title": "Romosozumab — Tony Romo's Stadium",
+    "tags": [
+      "romosozumab",
+      "sclerostin inhibitor",
+      "osteoporosis",
+      "Wnt pathway",
+      "anabolic",
+      "postmenopausal",
+      "endo"
+    ],
+    "notes": "Anti-sclerostin monoclonal antibody for postmenopausal osteoporosis at high fracture risk — dual action (builds bone via Wnt + decreases resorption); boxed warning for MI/stroke/CV death; given as 2 SC injections monthly for 12 months.\n\nANCHORS:\n- Tony Romo wearing an archer's quiver = **Romosozumab**\n- Football shattering a rusted skull = **Inhibits Sclerostin**\n- Gust of wind stacking concrete blocks into a wall = **Frees the Wnt pathway -> strong osteoblastic bone formation**\n- Kicked rubbery chisel = **Also decreases bone resorption (dual effect)**\n- Elderly queen on a snapping chalk throne = **Postmenopausal osteoporosis at high fracture risk (indication)**\n- Angry coach with a broken heart + black lightning stroke = **Boxed warning: MI, stroke, CV death (avoid if MI/stroke in prior year)**\n- Crumbling jawbone + fractured femur = **Osteonecrosis of the jaw and atypical femoral fractures**\n- Overturned Calci-Yum cooler = **Hypocalcemia (correct before initiation)**\n- Shoes (2) with syringe-submarines in a carton of a dozen eggs (12) = **2 SC injections once monthly for 12 months**\n"
   }
 }
