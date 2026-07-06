@@ -854,5 +854,20 @@
       "endo"
     ],
     "notes": "Anti-sclerostin monoclonal antibody for postmenopausal osteoporosis at high fracture risk — dual action (builds bone via Wnt + decreases resorption); boxed warning for MI/stroke/CV death; given as 2 SC injections monthly for 12 months.\n\nANCHORS:\n- Tony Romo wearing an archer's quiver = **Romosozumab**\n- Football shattering a rusted skull = **Inhibits Sclerostin**\n- Gust of wind stacking concrete blocks into a wall = **Frees the Wnt pathway -> strong osteoblastic bone formation**\n- Kicked rubbery chisel = **Also decreases bone resorption (dual effect)**\n- Elderly queen on a snapping chalk throne = **Postmenopausal osteoporosis at high fracture risk (indication)**\n- Angry coach with a broken heart + black lightning stroke = **Boxed warning: MI, stroke, CV death (avoid if MI/stroke in prior year)**\n- Crumbling jawbone + fractured femur = **Osteonecrosis of the jaw and atypical femoral fractures**\n- Overturned Calci-Yum cooler = **Hypocalcemia (correct before initiation)**\n- Shoes (2) with syringe-submarines in a carton of a dozen eggs (12) = **2 SC injections once monthly for 12 months**\n"
+  },
+  "images/endo/exenatide-vs-liraglutide.png": {
+    "title": "Exenatide vs Liraglutide — The Exxon Tide Gas Station",
+    "tags": [
+      "exenatide",
+      "liraglutide",
+      "GLP-1 receptor agonist",
+      "byetta",
+      "bydureon",
+      "victoza",
+      "saxenda",
+      "LEADER",
+      "endo"
+    ],
+    "notes": "GLP-1 receptor agonists compared — Exenatide (\"Exxon Tide\") has special dosing (Byetta BID / Bydureon weekly) and a renal limit (stop if CrCl <30), while Liraglutide (\"Lyrical Guide\") has proven ASCVD benefit (LEADER) and an obesity indication (Saxenda). Class effects: delayed gastric emptying (avoid in severe gastroparesis) and a pancreatitis warning.\n\nANCHORS:\n- \"Exxon Tide\" gas station = **Exenatide**\n- Sun + moon \"Immediate Release\" car / twice-daily pump = **Exenatide IR (Byetta) = twice daily before meals**\n- Weekly \"Exxon\" roadside sign = **Exenatide ER (Bydureon/BCise) = once weekly**\n- \"Exenatide-only vehicles\" box = **Drug-specific limitations (not shared equally by all GLP-1 RAs)**\n- Kidney grates / drain \"GFR <30\" = **Stop exenatide if CrCl <30 mL/min**\n- Crossed-out ASCVD sign = **No proven MACE benefit for exenatide (vs Liraglutide's LEADER trial)**\n- Crossed-out weight-loss sign = **Exenatide NOT FDA-approved for obesity (vs Liraglutide 3 mg = Saxenda)**\n- Cars creeping on the conveyor belt = **Delayed gastric emptying -> avoid in severe gastroparesis (class effect)**\n- Pancreatitis warning = **GLP-1 RA pancreatitis warning: stop drug if pancreatitis suspected**\n- Liraglutide (\"Lyrical Guide\") = **Daily; proven ASCVD benefit (LEADER); obesity-approved (Saxenda 3 mg) vs Victoza for T2DM**\n"
   }
 }
