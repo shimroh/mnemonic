@@ -869,5 +869,36 @@
       "endo"
     ],
     "notes": "GLP-1 receptor agonists compared — Exenatide (\"Exxon Tide\") has special dosing (Byetta BID / Bydureon weekly) and a renal limit (stop if CrCl <30), while Liraglutide (\"Lyrical Guide\") has proven ASCVD benefit (LEADER) and an obesity indication (Saxenda). Class effects: delayed gastric emptying (avoid in severe gastroparesis) and a pancreatitis warning.\n\nANCHORS:\n- \"Exxon Tide\" gas station = **Exenatide**\n- Sun + moon \"Immediate Release\" car / twice-daily pump = **Exenatide IR (Byetta) = twice daily before meals**\n- Weekly \"Exxon\" roadside sign = **Exenatide ER (Bydureon/BCise) = once weekly**\n- \"Exenatide-only vehicles\" box = **Drug-specific limitations (not shared equally by all GLP-1 RAs)**\n- Kidney grates / drain \"GFR <30\" = **Stop exenatide if CrCl <30 mL/min**\n- Crossed-out ASCVD sign = **No proven MACE benefit for exenatide (vs Liraglutide's LEADER trial)**\n- Crossed-out weight-loss sign = **Exenatide NOT FDA-approved for obesity (vs Liraglutide 3 mg = Saxenda)**\n- Cars creeping on the conveyor belt = **Delayed gastric emptying -> avoid in severe gastroparesis (class effect)**\n- Pancreatitis warning = **GLP-1 RA pancreatitis warning: stop drug if pancreatitis suspected**\n- Liraglutide (\"Lyrical Guide\") = **Daily; proven ASCVD benefit (LEADER); obesity-approved (Saxenda 3 mg) vs Victoza for T2DM**\n"
+  },
+  "images/neuro/paraneoplastic-cerebellar-degeneration.png": {
+    "title": "Paraneoplastic Cerebellar Degeneration — The Crumbling Silver Bell",
+    "tags": [
+      "paraneoplastic",
+      "cerebellar degeneration",
+      "anti-Hu",
+      "anti-Yo",
+      "anti-Tr",
+      "Purkinje",
+      "SCLC",
+      "ovarian",
+      "breast",
+      "Hodgkin",
+      "neuro"
+    ],
+    "notes": "Rapid-onset cerebellar syndrome from autoimmune antibodies attacking Purkinje cells, driven by an occult malignancy. The specific antibody points to the tumor: anti-Hu (SCLC), anti-Yo (ovarian/breast), anti-Tr (Hodgkin lymphoma).\n\nANCHORS:\n- Plastic Parachute + crumbling Silver Bell = **Paraneoplastic Cerebellar Degeneration (paraneoplastic + cerebellum)**\n- Archers shooting a \"Pork-Engine\" = **Autoantibody-mediated destruction of Purkinje cells**\n- Hula-Hoop + tiny blackened lungs = **Anti-Hu antibodies -> Small Cell Lung Cancer**\n- Yo-Yo + eggs & metal bra = **Anti-Yo antibodies -> Ovarian & Breast cancer**\n- Toy Train driven by an Owl = **Anti-Tr antibodies -> Hodgkin lymphoma (owl-eye Reed-Sternberg cells)**\n- Stumbling clown = **Ataxia**\n- Vibrating googly eyes = **Nystagmus**\n- Spilling alphabet soup = **Dysarthria**\n"
+  },
+  "images/neuro/naion.png": {
+    "title": "NAION — The Neon A-Iron",
+    "tags": [
+      "NAION",
+      "ischemic optic neuropathy",
+      "atherosclerosis",
+      "disc at risk",
+      "altitudinal defect",
+      "PDE5 inhibitor",
+      "neuro",
+      "ophtho"
+    ],
+    "notes": "Sudden painless vision loss from ischemia of the anterior optic nerve (short posterior ciliary arteries), driven by atherosclerosis in a structurally crowded \"disc at risk.\" Distinguished from arteritic AION (giant cell arteritis).\n\nANCHORS:\n- Neon A-Iron pressing a white cable = **NAION (Non-Arteritic Anterior Ischemic Optic Neuropathy)**\n- \"No Art\" sign (crossed-out palette) = **Non-Arteritic (NOT giant cell / temporal arteritis)**\n- Iron burning the front of a frayed white cable = **Ischemia of the anterior optic nerve**\n- Clogged yellow grease pipe = **Atherosclerosis of short posterior ciliary arteries (primary driver)**\n- Pale, puffy disc button = **Pale, swollen optic disc on fundoscopy**\n- Overcrowded CD rack = **\"Disc at risk\": small cup-to-disc ratio (anatomic predisposition)**\n- Customer waking peacefully, no pain = **Sudden painless vision loss, classically on waking (nocturnal hypotension)**\n- Bottom-half black sunglasses = **Inferior altitudinal visual field defect**\n- Steam valve + spilled sugar cubes = **Risk factors: Hypertension & Diabetes**\n- Blue diamond pill = **Risk factor: PDE5 inhibitors (e.g., sildenafil)**\n"
   }
 }
