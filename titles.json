@@ -932,5 +932,21 @@
       "endo"
     ],
     "notes": "Omnipod 5 settings: automation runs almost entirely off the glucose target, while the bolus calculator has five settings.\n\nANCHORS:\n- Octopus wearing a giant pod = **Omnipod 5**\n- Octopus standing on one giant target (no other knobs) = **Automated mode is driven mainly by the glucose target**\n- Arm 1: pizza = **Insulin-to-carb ratio (ICR)**\n- Arm 2: shield = **Insulin sensitivity factor (ISF) / correction factor**\n- Arm 3: hourglass = **Active insulin time (AIT; duration of insulin action)**\n- Arm 4: truck driving backward = **Reverse correction (reduces meal bolus when BG is below target)**\n- Arm 5: target = **Glucose target (same target used again by the bolus calculator)**\n"
+  },
+  "images/endo/minimed-780g.png": {
+    "title": "MiniMed 780G — Boeing 780 Autopilot",
+    "tags": [
+      "MiniMed 780G",
+      "Medtronic",
+      "SmartGuard",
+      "automated insulin delivery",
+      "AID",
+      "insulin pump",
+      "target glucose",
+      "ICR",
+      "AIT",
+      "endo"
+    ],
+    "notes": "MiniMed 780G in SmartGuard (auto) mode: the algorithm runs off a single glucose target (100, 110, or 120 mg/dL); the only other user-adjustable settings are ICR and AIT.\n\nANCHORS:\n- Boeing 780 on autopilot = **MiniMed 780G advanced hybrid closed loop**\n- Empty basement with one giant glowing target = **Auto basal + auto-corrections driven by one setting: glucose target (100/110/120 mg/dL)**\n- Bare meal cart = **SmartGuard locks out most traditional pump settings; user only manages mealtime inputs**\n- \"ICR\" pepperoni pizza = **Insulin-to-carb ratio (user-set for meal boluses)**\n- \"AIT\" hourglass = **Active insulin time (how long a bolus is counted as active; prevents stacking)**\n"
   }
 }
