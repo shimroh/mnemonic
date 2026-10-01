@@ -900,5 +900,21 @@
       "ophtho"
     ],
     "notes": "Sudden painless vision loss from ischemia of the anterior optic nerve (short posterior ciliary arteries), driven by atherosclerosis in a structurally crowded \"disc at risk.\" Distinguished from arteritic AION (giant cell arteritis).\n\nANCHORS:\n- Neon A-Iron pressing a white cable = **NAION (Non-Arteritic Anterior Ischemic Optic Neuropathy)**\n- \"No Art\" sign (crossed-out palette) = **Non-Arteritic (NOT giant cell / temporal arteritis)**\n- Iron burning the front of a frayed white cable = **Ischemia of the anterior optic nerve**\n- Clogged yellow grease pipe = **Atherosclerosis of short posterior ciliary arteries (primary driver)**\n- Pale, puffy disc button = **Pale, swollen optic disc on fundoscopy**\n- Overcrowded CD rack = **\"Disc at risk\": small cup-to-disc ratio (anatomic predisposition)**\n- Customer waking peacefully, no pain = **Sudden painless vision loss, classically on waking (nocturnal hypotension)**\n- Bottom-half black sunglasses = **Inferior altitudinal visual field defect**\n- Steam valve + spilled sugar cubes = **Risk factors: Hypertension & Diabetes**\n- Blue diamond pill = **Risk factor: PDE5 inhibitors (e.g., sildenafil)**\n"
+  },
+  "images/endo/control-iq-plus.png": {
+    "title": "Control-IQ+ — The ATC Airport",
+    "tags": [
+      "Control-IQ+",
+      "automated insulin delivery",
+      "AID",
+      "insulin pump",
+      "Tandem",
+      "target range",
+      "ISF",
+      "basal rate",
+      "ICR",
+      "endo"
+    ],
+    "notes": "Control-IQ+ automated insulin delivery settings: basal-side settings (target range, ISF, basal rates) downstairs; bolus-side settings (ICR, ISF reused for corrections) upstairs.\n\nANCHORS:\n- \"CONTROL-IQ+\" neon ATC tower = **Control-IQ+ AID system**\n- Tarmac goalposts (land between them) = **Target glucose range**\n- Tower shield smacking glucose cubes = **Insulin sensitivity factor (ISF) / correction factor**\n- Dripping fuel faucets = **Basal insulin rates**\n- Pilot dividing pizza slices among syringes = **Insulin-to-carb ratio (ICR) for meal boluses**\n- Same sensitivity shield upstairs = **ISF also used for bolus correction doses**\n"
   }
 }
