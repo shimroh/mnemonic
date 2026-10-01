@@ -948,5 +948,24 @@
       "endo"
     ],
     "notes": "MiniMed 780G in SmartGuard (auto) mode: the algorithm runs off a single glucose target (100, 110, or 120 mg/dL); the only other user-adjustable settings are ICR and AIT.\n\nANCHORS:\n- Boeing 780 on autopilot = **MiniMed 780G advanced hybrid closed loop**\n- Empty basement with one giant glowing target = **Auto basal + auto-corrections driven by one setting: glucose target (100/110/120 mg/dL)**\n- Bare meal cart = **SmartGuard locks out most traditional pump settings; user only manages mealtime inputs**\n- \"ICR\" pepperoni pizza = **Insulin-to-carb ratio (user-set for meal boluses)**\n- \"AIT\" hourglass = **Active insulin time (how long a bolus is counted as active; prevents stacking)**\n"
+  },
+  "images/endo/twiist.png": {
+    "title": "Twiist — The Twisting Machine",
+    "tags": [
+      "Twiist",
+      "Sequel",
+      "automated insulin delivery",
+      "AID",
+      "insulin pump",
+      "correction range",
+      "ISF",
+      "basal rate",
+      "max basal",
+      "glucose safety limit",
+      "ICR",
+      "carb absorption time",
+      "endo"
+    ],
+    "notes": "Twiist AID exposes many more manual settings than other AID systems: basal/safety settings downstairs, bolus variables upstairs.\n\nANCHORS:\n- Giant twisting pipe machine covered in knobs = **Twiist AID system (many user-adjustable settings)**\n- Goalposts around a sugar cube = **Correction range (target glucose boundaries)**\n- Knight's shield = **Insulin sensitivity factor (ISF)**\n- Row of faucets flowing at different rates = **Basal rates**\n- Huge faucet spraying into a low ceiling = **Max basal (hard cap on how high automated basal can go)**\n- Safety barricade at the cliff edge = **Glucose safety limit**\n- Mini goalposts + shield on the dining table = **Correction range and ISF also used in meal bolus calculations**\n- Pizza = **Insulin-to-carb ratio (ICR)**\n- Bread conveyor belt with speed dial into red tank = **Carb absorption time (how fast carbs are expected to enter the blood)**\n"
   }
 }
