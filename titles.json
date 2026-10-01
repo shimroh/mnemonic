@@ -916,5 +916,21 @@
       "endo"
     ],
     "notes": "Control-IQ+ automated insulin delivery settings: basal-side settings (target range, ISF, basal rates) downstairs; bolus-side settings (ICR, ISF reused for corrections) upstairs.\n\nANCHORS:\n- \"CONTROL-IQ+\" neon ATC tower = **Control-IQ+ AID system**\n- Tarmac goalposts (land between them) = **Target glucose range**\n- Tower shield smacking glucose cubes = **Insulin sensitivity factor (ISF) / correction factor**\n- Dripping fuel faucets = **Basal insulin rates**\n- Pilot dividing pizza slices among syringes = **Insulin-to-carb ratio (ICR) for meal boluses**\n- Same sensitivity shield upstairs = **ISF also used for bolus correction doses**\n"
+  },
+  "images/endo/omnipod-5.png": {
+    "title": "Omnipod 5 — Octopus Pod",
+    "tags": [
+      "Omnipod 5",
+      "automated insulin delivery",
+      "AID",
+      "insulin pump",
+      "target glucose",
+      "ICR",
+      "ISF",
+      "AIT",
+      "reverse correction",
+      "endo"
+    ],
+    "notes": "Omnipod 5 settings: automation runs almost entirely off the glucose target, while the bolus calculator has five settings.\n\nANCHORS:\n- Octopus wearing a giant pod = **Omnipod 5**\n- Octopus standing on one giant target (no other knobs) = **Automated mode is driven mainly by the glucose target**\n- Arm 1: pizza = **Insulin-to-carb ratio (ICR)**\n- Arm 2: shield = **Insulin sensitivity factor (ISF) / correction factor**\n- Arm 3: hourglass = **Active insulin time (AIT; duration of insulin action)**\n- Arm 4: truck driving backward = **Reverse correction (reduces meal bolus when BG is below target)**\n- Arm 5: target = **Glucose target (same target used again by the bolus calculator)**\n"
   }
 }
