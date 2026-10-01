@@ -967,5 +967,20 @@
       "endo"
     ],
     "notes": "Twiist AID exposes many more manual settings than other AID systems: basal/safety settings downstairs, bolus variables upstairs.\n\nANCHORS:\n- Giant twisting pipe machine covered in knobs = **Twiist AID system (many user-adjustable settings)**\n- Goalposts around a sugar cube = **Correction range (target glucose boundaries)**\n- Knight's shield = **Insulin sensitivity factor (ISF)**\n- Row of faucets flowing at different rates = **Basal rates**\n- Huge faucet spraying into a low ceiling = **Max basal (hard cap on how high automated basal can go)**\n- Safety barricade at the cliff edge = **Glucose safety limit**\n- Mini goalposts + shield on the dining table = **Correction range and ISF also used in meal bolus calculations**\n- Pizza = **Insulin-to-carb ratio (ICR)**\n- Bread conveyor belt with speed dial into red tank = **Carb absorption time (how fast carbs are expected to enter the blood)**\n"
+  },
+  "images/rheum/triamcinolone.png": {
+    "title": "Triamcinolone — Woodland Bakery",
+    "tags": [
+      "triamcinolone",
+      "glucocorticoid",
+      "corticosteroid",
+      "intra-articular injection",
+      "Kenalog",
+      "Nasacort",
+      "psoriasis",
+      "eczema",
+      "rheum"
+    ],
+    "notes": "Triamcinolone: glucocorticoid given intra-articular, intranasal, and topical; watch for skin atrophy, osteoporosis, hyperglycemia, and immunosuppression.\n\nANCHORS:\n- Glowing triangle cinnamon roll = **Triamcinolone**\n- Moon fire extinguisher = **Glucocorticoid anti-inflammatory mechanism**\n- Syringe greasing an inflamed door hinge = **Intra-articular injection (joint inflammation)**\n- Customer with a runny nose = **Intranasal spray for allergic rhinitis**\n- Baker spreading red scaly jam = **Topical for psoriasis / eczema**\n- Over-stretched tearing dough = **Skin atrophy / thinning / striae**\n- Crumbling bone rolling pin = **Osteoporosis**\n- Spilled sugar canister = **Hyperglycemia**\n- Sick coughing mouse with a cane = **Immunosuppression / infection risk**\n"
   }
 }
