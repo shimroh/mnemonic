@@ -982,5 +982,19 @@
       "rheum"
     ],
     "notes": "Triamcinolone: glucocorticoid given intra-articular, intranasal, and topical; watch for skin atrophy, osteoporosis, hyperglycemia, and immunosuppression.\n\nANCHORS:\n- Glowing triangle cinnamon roll = **Triamcinolone**\n- Moon fire extinguisher = **Glucocorticoid anti-inflammatory mechanism**\n- Syringe greasing an inflamed door hinge = **Intra-articular injection (joint inflammation)**\n- Customer with a runny nose = **Intranasal spray for allergic rhinitis**\n- Baker spreading red scaly jam = **Topical for psoriasis / eczema**\n- Over-stretched tearing dough = **Skin atrophy / thinning / striae**\n- Crumbling bone rolling pin = **Osteoporosis**\n- Spilled sugar canister = **Hyperglycemia**\n- Sick coughing mouse with a cane = **Immunosuppression / infection risk**\n"
+  },
+  "images/neuro/kearns-sayre-syndrome.png": {
+    "title": "Kearns-Sayre Syndrome — The Kernels-Sire",
+    "tags": [
+      "Kearns-Sayre syndrome",
+      "mitochondrial disease",
+      "mtDNA deletion",
+      "ragged red fibers",
+      "PEO",
+      "pigmentary retinopathy",
+      "heart block",
+      "neuro"
+    ],
+    "notes": "Kearns-Sayre syndrome: large mtDNA deletion; classic triad of onset <20, progressive external ophthalmoplegia, and pigmentary retinopathy, plus cardiac conduction block, cerebellar ataxia, and high CSF protein.\n\nANCHORS:\n- King (Sire) eating popcorn kernels = **Kearns-Sayre syndrome**\n- Circular map with a chunk torn out = **Large mitochondrial DNA deletion**\n- Ragged red carpet = **Ragged red fibers on muscle biopsy**\n- Boy under the limbo bar holding shoes (2) + bowling pin (0) = **Onset before age 20**\n- Locked-on stone goggles = **Progressive external ophthalmoplegia (PEO)**\n- King throwing salt and pepper onto a camera lens = **Pigmentary (salt-and-pepper) retinopathy**\n- Heart shield with its electrical cord chopped by an axe = **Cardiac conduction block (may need pacemaker)**\n- Stumbling jester with a silver bell = **Cerebellar ataxia**\n- Spilled CSF goblet with a heavy chunk of meat = **Elevated CSF protein (>100 mg/dL)**\n"
   }
 }
