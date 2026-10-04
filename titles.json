@@ -1010,5 +1010,20 @@
       "endo"
     ],
     "notes": "Rathke cleft cyst: benign sellar cyst from Rathke pouch remnants, usually T2-bright; mostly an incidental finding, but large cysts cause hypopituitarism and bitemporal hemianopia.\n\nANCHORS:\n- Rat scientist with a cleft-ended key = **Rathke cleft cyst**\n- Pit bull in a kennel = **Pituitary location**\n- Discarded \"embryological developmental pouch\" boxes = **Arises from Rathke pouch remnants**\n- Glowing bright blue ball of fluid in the vault = **Cystic, T2-hyperintense lesion**\n- Smiling, shrugging doctor = **Usually an asymptomatic incidental finding**\n- Spectators hit by falling empty hormone bottles = **Large cyst compresses pituitary -> hypopituitarism**\n- Spectators squeezed by the blue ball, tunnel vision = **Optic chiasm compression -> bitemporal hemianopia**\n"
+  },
+  "images/endo/sdhb.png": {
+    "title": "SDHB — The Sad-Bee Mighty-Chondria",
+    "tags": [
+      "SDHB",
+      "succinate dehydrogenase",
+      "hereditary paraganglioma",
+      "pheochromocytoma",
+      "paraganglioma",
+      "pseudohypoxia",
+      "HIF",
+      "metastatic",
+      "endo"
+    ],
+    "notes": "SDHB hereditary paraganglioma syndrome: autosomal dominant loss of complex II -> succinate buildup -> pseudohypoxia; mostly extra-adrenal, noradrenergic paragangliomas with the highest metastatic risk (\"B is for Bad\"), so lifelong whole-body surveillance.\n\nANCHORS:\n- Mutant Sad-Bee = **SDHB (succinate dehydrogenase subunit B)**\n- Falling dominoes = **Autosomal dominant inheritance (tumor suppressor, second hit)**\n- Jammed generator with shoes (2) = **Mitochondrial complex II dysfunction**\n- Overflowing piles of suckers (lollipops) = **Succinate accumulation (oncometabolite)**\n- Bee in oxygen mask waving a foam \"5\" hand = **Pseudohypoxia via HIF stabilization (succinate inhibits prolyl hydroxylase)**\n- Scarecrow (Fear-Crow) + pair of gongs = **Pheochromocytoma / paragangliomas**\n- Explorer hat (adrenal cap) far from the gongs = **Mostly extra-adrenal (abdomen/pelvis)**\n- Compass locked on North = **Norepinephrine / normetanephrine secretion**\n- Crab pinching the bee = **High malignancy / metastasis risk (\"B is for Bad\")**\n- Sweeping green radar = **Lifelong whole-body imaging surveillance**\n"
   }
 }
