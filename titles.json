@@ -1025,5 +1025,21 @@
       "endo"
     ],
     "notes": "SDHB hereditary paraganglioma syndrome: autosomal dominant loss of complex II -> succinate buildup -> pseudohypoxia; mostly extra-adrenal, noradrenergic paragangliomas with the highest metastatic risk (\"B is for Bad\"), so lifelong whole-body surveillance.\n\nANCHORS:\n- Mutant Sad-Bee = **SDHB (succinate dehydrogenase subunit B)**\n- Falling dominoes = **Autosomal dominant inheritance (tumor suppressor, second hit)**\n- Jammed generator with shoes (2) = **Mitochondrial complex II dysfunction**\n- Overflowing piles of suckers (lollipops) = **Succinate accumulation (oncometabolite)**\n- Bee in oxygen mask waving a foam \"5\" hand = **Pseudohypoxia via HIF stabilization (succinate inhibits prolyl hydroxylase)**\n- Scarecrow (Fear-Crow) + pair of gongs = **Pheochromocytoma / paragangliomas**\n- Explorer hat (adrenal cap) far from the gongs = **Mostly extra-adrenal (abdomen/pelvis)**\n- Compass locked on North = **Norepinephrine / normetanephrine secretion**\n- Crab pinching the bee = **High malignancy / metastasis risk (\"B is for Bad\")**\n- Sweeping green radar = **Lifelong whole-body imaging surveillance**\n"
+  },
+  "images/endo/carney-stratakis-dyad.png": {
+    "title": "Carney-Stratakis Dyad — The Carnival Duo",
+    "tags": [
+      "Carney-Stratakis dyad",
+      "SDHB",
+      "SDHC",
+      "SDHD",
+      "succinate dehydrogenase",
+      "GIST",
+      "pheochromocytoma",
+      "paraganglioma",
+      "Carney triad",
+      "endo"
+    ],
+    "notes": "Carney-Stratakis dyad: autosomal dominant germline SDHB/C/D mutations causing GIST + paraganglioma/pheochromocytoma; unlike the (non-familial) Carney triad, no pulmonary chondromas.\n\nANCHORS:\n- Carnival duo smashing Stratocaster guitars = **Carney-Stratakis dyad (two tumor types)**\n- Falling domino stage prop = **Autosomal dominant inheritance (incomplete penetrance)**\n- Smoking generator wearing a pair of shoes (2) = **Mitochondrial complex II (succinate dehydrogenase) defect**\n- Sad-Bee, Sad-Cat, Sad-Dog at the power cables = **Germline SDHB, SDHC, SDHD mutations**\n- Stomach balloon with a ghost bursting out = **Gastrointestinal stromal tumor (GIST)**\n- Scarecrow (Fear-Crow) drummer bashing gongs = **Pheochromocytoma / paraganglioma**\n- Security sign with crossed-out chrome lungs = **No pulmonary chondromas (distinguishes from Carney triad)**\n"
   }
 }
