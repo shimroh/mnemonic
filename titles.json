@@ -1041,5 +1041,21 @@
       "endo"
     ],
     "notes": "Carney-Stratakis dyad: autosomal dominant germline SDHB/C/D mutations causing GIST + paraganglioma/pheochromocytoma; unlike the (non-familial) Carney triad, no pulmonary chondromas.\n\nANCHORS:\n- Carnival duo smashing Stratocaster guitars = **Carney-Stratakis dyad (two tumor types)**\n- Falling domino stage prop = **Autosomal dominant inheritance (incomplete penetrance)**\n- Smoking generator wearing a pair of shoes (2) = **Mitochondrial complex II (succinate dehydrogenase) defect**\n- Sad-Bee, Sad-Cat, Sad-Dog at the power cables = **Germline SDHB, SDHC, SDHD mutations**\n- Stomach balloon with a ghost bursting out = **Gastrointestinal stromal tumor (GIST)**\n- Scarecrow (Fear-Crow) drummer bashing gongs = **Pheochromocytoma / paraganglioma**\n- Security sign with crossed-out chrome lungs = **No pulmonary chondromas (distinguishes from Carney triad)**\n"
+  },
+  "images/cardio/bempedoic-acid.png": {
+    "title": "Bempedoic Acid — The Bumper-Doe",
+    "tags": [
+      "bempedoic acid",
+      "Nexletol",
+      "ATP citrate lyase",
+      "ACL inhibitor",
+      "LDL",
+      "statin intolerance",
+      "hyperuricemia",
+      "gout",
+      "tendon rupture",
+      "cardio"
+    ],
+    "notes": "Bempedoic acid: liver-activated prodrug that inhibits ATP citrate lyase (upstream of HMG-CoA reductase) to lower LDL without statin-type myopathy; watch for hyperuricemia/gout and tendon rupture.\n\nANCHORS:\n- Doe driving a bumper car leaking green acid = **Bempedoic acid**\n- Snapping ceiling bungee cord = **Tendon rupture risk**\n- Liver jammed into the ignition = **Prodrug activated only in the liver (ACSVL1)**\n- Smashed ATP-citrus battery = **Inhibits ATP citrate lyase (upstream of HMG-CoA reductase)**\n- Crushed yellow-grease submarine = **Lowers LDL cholesterol**\n- Smiling, flexing muscle mascot = **No skeletal muscle activation -> minimal myopathy; statin-intolerant patients**\n- King with a red, needle-pierced foot = **Inhibits renal OAT2 -> hyperuricemia, gout flares**\n"
   }
 }
