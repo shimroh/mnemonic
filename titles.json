@@ -1075,5 +1075,19 @@
       "endo"
     ],
     "notes": "Carney complex: autosomal dominant PRKAR1A mutation causing spotty skin pigmentation, cardiac myxomas, and multiple endocrine tumors (PPNAD, GH-secreting pituitary adenoma, calcifying Sertoli cell tumors) plus psammomatous melanotic schwannomas. Distinct from the Carney triad and Carney-Stratakis dyad (GIST/paraganglioma).\n\nANCHORS:\n- Circus-striped apartment complex = **Carney complex**\n- Falling domino balcony = **Autosomal dominant inheritance**\n- Sweating landlord in a parka with a candle (1) and apple (A) = **PRKAR1A mutation (PKA regulatory subunit 1-alpha)**\n- Dalmatian with blue spots = **Spotty skin pigmentation: lentigines, blue nevi (face, lips, mucosa)**\n- Heart used as a mixing bowl = **Cardiac myxomas (embolism, valve obstruction; major cause of death)**\n- Muddy nodular pig in an explorer hat on a bursting cushion = **PPNAD -> ACTH-independent Cushing syndrome**\n- Giant pit bull = **Pituitary adenoma, usually GH -> acromegaly/gigantism**\n- Sir-Troll holding calcified stones = **Large-cell calcifying Sertoli cell tumors (testes)**\n- Black swan in a sandbox = **Psammomatous melanotic schwannoma**\n"
+  },
+  "images/endo/carney-triad.png": {
+    "title": "Carney Triad — The Carnival Tricycle",
+    "tags": [
+      "Carney triad",
+      "GIST",
+      "pulmonary chondroma",
+      "paraganglioma",
+      "sporadic",
+      "young women",
+      "Carney-Stratakis dyad",
+      "endo"
+    ],
+    "notes": "Carney triad: sporadic (non-inherited) syndrome of young women with gastric GIST, pulmonary chondroma, and extra-adrenal paraganglioma. Pulmonary chondroma distinguishes it from the inherited Carney-Stratakis dyad.\n\nANCHORS:\n- Carnival tricycle with a glowing trident (3) = **Carney triad**\n- Upright domino bolted to the floor = **Sporadic, not inherited (not autosomal dominant)**\n- Young girl pedaling = **Predominantly young females**\n- Stomach balloon with a ghost = **Gastrointestinal stromal tumor (GIST)**\n- Chrome lungs as the engine = **Pulmonary chondroma (key distinguishing tumor vs dyad)**\n- Scarecrow (Fear-Crow) bashing a pair of gongs = **Paraganglioma**\n- Abandoned explorer hat (adrenal cap) away from the gongs = **Extra-adrenal paragangliomas**\n"
   }
 }
