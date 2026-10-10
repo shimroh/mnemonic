@@ -1153,5 +1153,24 @@
       "endo"
     ],
     "notes": "Desogestrel: 3rd-generation progestin with low androgenic activity; used in combined OCPs and (outside the US) as a progestin-only pill; higher VTE risk than 2nd-generation progestins such as levonorgestrel.\n\nANCHORS:\n- Desert explorer building a trellis = **Desogestrel**\n- Glowing \"Pro-Guest\" lanyard = **Progestin class**\n- Trident (3) gardening tool = **3rd-generation progestin**\n- Working solo = **Can be used as a progestin-only pill (mini-pill)**\n- OCP headphones + stork = **Contraception (prevents pregnancy)**\n- Tiny sleeping android under the trellis = **Low androgenic activity (less acne/hirsutism than levonorgestrel)**\n- Massive clotted red vine on the trellis = **Higher VTE/DVT risk vs 2nd-generation progestins**\n"
+  },
+  "images/endo/hormonal-contraceptives.png": {
+    "title": "Hormonal Contraceptives — Security Headquarters",
+    "tags": [
+      "hormonal contraception",
+      "Xulane",
+      "Twirla",
+      "NuvaRing",
+      "Mirena",
+      "Kyleena",
+      "Nexplanon",
+      "Depo-Provera",
+      "norethindrone",
+      "levonorgestrel",
+      "etonogestrel",
+      "medroxyprogesterone",
+      "endo"
+    ],
+    "notes": "Hormonal contraceptives by delivery method: combined (EE + progestin) patches and ring on the left, progestin-only IUDs, implant, injection, and mini-pill on the right. Patches carry a higher VTE risk than pills.\n\nANCHORS:\n- Stop sign in OCP headphones blocking a stork = **Hormonal contraceptives**\n- Twirling ballerina + Zoo-Lane, both with glowing shoulder patches = **Twirla (levonorgestrel + EE) and Xulane (norelgestromin + EE) transdermal patches**\n- Pro-Guest lanyards + ethanol burner with an extra dial = **Combined methods: progestin + ethinyl estradiol**\n- Thick clotted red vines tangling the patch side = **Patches bypass first-pass metabolism -> higher estrogen exposure and VTE risk than pills**\n- Feasting guard (Eaten-Guest) tossing a ring = **NuvaRing vaginal ring (etonogestrel + EE)**\n- Bouncer (Leave-No-Guest) holding two anchors = **Levonorgestrel IUDs (progestin-only)**\n- Kite and mirror on the anchors = **Kyleena and Mirena (levonorgestrel IUD brands)**\n- \"Next-Plan\" blueprint of a rod in an arm = **Nexplanon subdermal implant (etonogestrel)**\n- Depot train / syringe = **Depo-Provera IM injection (medroxyprogesterone)**\n- Skinny Viking (Norse-Thin) flying a drone with a mini pill = **Norethindrone progestin-only mini-pill**\n"
   }
 }
