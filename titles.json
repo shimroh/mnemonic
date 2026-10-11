@@ -1172,5 +1172,20 @@
       "endo"
     ],
     "notes": "Hormonal contraceptives by delivery method: combined (EE + progestin) patches and ring on the left, progestin-only IUDs, implant, injection, and mini-pill on the right. Patches carry a higher VTE risk than pills.\n\nANCHORS:\n- Stop sign in OCP headphones blocking a stork = **Hormonal contraceptives**\n- Twirling ballerina + Zoo-Lane, both with glowing shoulder patches = **Twirla (levonorgestrel + EE) and Xulane (norelgestromin + EE) transdermal patches**\n- Pro-Guest lanyards + ethanol burner with an extra dial = **Combined methods: progestin + ethinyl estradiol**\n- Thick clotted red vines tangling the patch side = **Patches bypass first-pass metabolism -> higher estrogen exposure and VTE risk than pills**\n- Feasting guard (Eaten-Guest) tossing a ring = **NuvaRing vaginal ring (etonogestrel + EE)**\n- Bouncer (Leave-No-Guest) holding two anchors = **Levonorgestrel IUDs (progestin-only)**\n- Kite and mirror on the anchors = **Kyleena and Mirena (levonorgestrel IUD brands)**\n- \"Next-Plan\" blueprint of a rod in an arm = **Nexplanon subdermal implant (etonogestrel)**\n- Depot train / syringe = **Depo-Provera IM injection (medroxyprogesterone)**\n- Skinny Viking (Norse-Thin) flying a drone with a mini pill = **Norethindrone progestin-only mini-pill**\n"
+  },
+  "images/endo/cyproterone-acetate.png": {
+    "title": "Cyproterone Acetate — The Cypre-Press",
+    "tags": [
+      "cyproterone acetate",
+      "Diane-35",
+      "anti-androgen",
+      "progestin",
+      "hirsutism",
+      "acne",
+      "hepatotoxicity",
+      "VTE",
+      "endo"
+    ],
+    "notes": "Cyproterone acetate: steroidal progestin and potent androgen receptor antagonist (also suppresses gonadotropins); used for severe hirsutism, female pattern hair loss, and refractory acne (not US-approved); risks include hepatotoxicity and VTE, especially with estrogen (Diane-35).\n\nANCHORS:\n- Industrial Cypre-Press machine = **Cyproterone acetate**\n- Glowing \"Pro-Guest\" lanyard on the press = **Progestin (steroidal)**\n- Press crushing a large android = **Potent androgen receptor antagonist + gonadotropin suppression**\n- Worker trimming hairy bushes = **Severe hirsutism / female pattern hair loss**\n- Worker wiping off a mud pimple mask = **Severe, refractory acne**\n- Tipped, spilling crown-jewel pot = **Hepatotoxicity (can be severe/fatal)**\n- Massive clotted red vine on the hydraulic pillar = **VTE / DVT risk, especially combined with estrogen (Diane-35)**\n"
   }
 }
