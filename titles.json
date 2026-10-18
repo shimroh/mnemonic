@@ -1198,6 +1198,7 @@
       "liraglutide",
       "Ozempic",
       "semaglutide",
+      "Wegovy",
       "Trulicity",
       "dulaglutide",
       "Mounjaro",
@@ -1205,6 +1206,6 @@
       "pen device",
       "endo"
     ],
-    "notes": "Incretin pen devices: liraglutide pens (Victoza, Saxenda) let you dial among preset doses; Ozempic starts with a 0.25/0.5 mg titration pen; Trulicity, Mounjaro, and Zepbound are fixed-strength single-dose pens with no dial. (Mounjaro/Zepbound = tirzepatide, a dual GIP/GLP-1 agonist.)\n\nANCHORS:\n- Towering dial-scale ladder = **GLP-1 receptor agonist pen dosing**\n- Victor + saxophone player turning dials at the top = **Victoza / Saxenda (liraglutide): multi-dose dial pens**\n- Picture frame at the 0.25 / 0.5 step = **Ozempic (semaglutide) starter pen: 0.25 -> 0.5 mg titration**\n- True/False sign, jar, and hound padlocked at the base = **Trulicity, Mounjaro, Zepbound: fixed-strength single-dose pens, no dial**\n- Light-to-dark orange steps = **Upward dose titration**\n"
+    "notes": "Incretin pen devices: liraglutide pens (Victoza, Saxenda) let you dial among preset doses; Ozempic starts with a 0.25/0.5 mg titration pen; Trulicity, Wegovy, Mounjaro, and Zepbound are fixed-strength single-dose pens with no dial. (Mounjaro/Zepbound = tirzepatide, a dual GIP/GLP-1 agonist.)\n\nANCHORS:\n- Towering dial-scale ladder = **GLP-1 receptor agonist pen dosing**\n- Victor + saxophone player turning dials at the top = **Victoza / Saxenda (liraglutide): multi-dose dial pens**\n- Picture frame at the 0.25 / 0.5 step = **Ozempic (semaglutide) starter pen: 0.25 -> 0.5 mg titration**\n- True/False sign, pot of gravy, jar, and hound padlocked at the base = **Trulicity, Wegovy, Mounjaro, Zepbound: fixed-strength single-dose pens, no dial**\n- Light-to-dark orange steps = **Upward dose titration**\n"
   }
 }
