@@ -1187,5 +1187,24 @@
       "endo"
     ],
     "notes": "Cyproterone acetate: steroidal progestin and potent androgen receptor antagonist (also suppresses gonadotropins); used for severe hirsutism, female pattern hair loss, and refractory acne (not US-approved); risks include hepatotoxicity and VTE, especially with estrogen (Diane-35).\n\nANCHORS:\n- Industrial Cypre-Press machine = **Cyproterone acetate**\n- Glowing \"Pro-Guest\" lanyard on the press = **Progestin (steroidal)**\n- Press crushing a large android = **Potent androgen receptor antagonist + gonadotropin suppression**\n- Worker trimming hairy bushes = **Severe hirsutism / female pattern hair loss**\n- Worker wiping off a mud pimple mask = **Severe, refractory acne**\n- Tipped, spilling crown-jewel pot = **Hepatotoxicity (can be severe/fatal)**\n- Massive clotted red vine on the hydraulic pillar = **VTE / DVT risk, especially combined with estrogen (Diane-35)**\n"
+  },
+  "images/endo/glp-1-pen-types.png": {
+    "title": "GLP-1 RA Pen Types — The Dial-Scale Ladder",
+    "tags": [
+      "GLP-1 receptor agonist",
+      "tirzepatide",
+      "Victoza",
+      "Saxenda",
+      "liraglutide",
+      "Ozempic",
+      "semaglutide",
+      "Trulicity",
+      "dulaglutide",
+      "Mounjaro",
+      "Zepbound",
+      "pen device",
+      "endo"
+    ],
+    "notes": "Incretin pen devices: liraglutide pens (Victoza, Saxenda) let you dial among preset doses; Ozempic starts with a 0.25/0.5 mg titration pen; Trulicity, Mounjaro, and Zepbound are fixed-strength single-dose pens with no dial. (Mounjaro/Zepbound = tirzepatide, a dual GIP/GLP-1 agonist.)\n\nANCHORS:\n- Towering dial-scale ladder = **GLP-1 receptor agonist pen dosing**\n- Victor + saxophone player turning dials at the top = **Victoza / Saxenda (liraglutide): multi-dose dial pens**\n- Picture frame at the 0.25 / 0.5 step = **Ozempic (semaglutide) starter pen: 0.25 -> 0.5 mg titration**\n- True/False sign, jar, and hound padlocked at the base = **Trulicity, Mounjaro, Zepbound: fixed-strength single-dose pens, no dial**\n- Light-to-dark orange steps = **Upward dose titration**\n"
   }
 }
