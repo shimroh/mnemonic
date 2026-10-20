@@ -1207,5 +1207,22 @@
       "endo"
     ],
     "notes": "Incretin pen devices: liraglutide pens (Victoza, Saxenda) let you dial among preset doses; Ozempic starts with a 0.25/0.5 mg titration pen; Trulicity, Wegovy, Mounjaro, and Zepbound are fixed-strength single-dose pens with no dial. (Mounjaro/Zepbound = tirzepatide, a dual GIP/GLP-1 agonist.)\n\nANCHORS:\n- Towering dial-scale ladder = **GLP-1 receptor agonist pen dosing**\n- Victor + saxophone player turning dials at the top = **Victoza / Saxenda (liraglutide): multi-dose dial pens**\n- Picture frame at the 0.25 / 0.5 step = **Ozempic (semaglutide) starter pen: 0.25 -> 0.5 mg titration**\n- True/False sign, pot of gravy, jar, and hound padlocked at the base = **Trulicity, Wegovy, Mounjaro, Zepbound: fixed-strength single-dose pens, no dial**\n- Light-to-dark orange steps = **Upward dose titration**\n"
+  },
+  "images/endo/hypopituitarism.png": {
+    "title": "Hypopituitarism — The Hypo-Pit Museum",
+    "tags": [
+      "hypopituitarism",
+      "pituitary adenoma",
+      "craniopharyngioma",
+      "pituitary apoplexy",
+      "Sheehan syndrome",
+      "hypophysitis",
+      "checkpoint inhibitor",
+      "hemochromatosis",
+      "sarcoidosis",
+      "Kallmann syndrome",
+      "endo"
+    ],
+    "notes": "Causes of hypopituitarism: sellar masses, surgery/radiation, trauma, infarction/hemorrhage, infection, infiltrative disease, autoimmune hypophysitis, and congenital/genetic defects.\n\nANCHORS:\n- Statue on the \"Hypo-Pit\" pedestal in a ruined museum = **Hypopituitarism**\n- Cracked, caved-in stone arch = **Sellar masses (pituitary adenoma, craniopharyngioma, cysts)**\n- Robot firing a laser at the arch = **Iatrogenic: transsphenoidal surgery or cranial irradiation**\n- Wrecked boxing ring with torn ropes = **Traumatic brain injury (stalk section)**\n- Valve bursting with dark red fluid = **Infarction/hemorrhage: pituitary apoplexy or Sheehan syndrome (postpartum)**\n- Moldy corner with a collapsed hazmat suit = **Infection (abscess, TB, fungal)**\n- Shelves caked in stone dust = **Infiltrative disease (hemochromatosis, sarcoidosis, Langerhans cell histiocytosis)**\n- Knight's shield hit by swarming antibodies = **Lymphocytic hypophysitis (pregnancy, checkpoint inhibitors)**\n- Torn blueprint scroll = **Congenital/genetic (transcription factor mutations, Kallmann, septo-optic dysplasia)**\n"
   }
 }
