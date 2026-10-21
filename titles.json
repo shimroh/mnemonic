@@ -1224,5 +1224,21 @@
       "endo"
     ],
     "notes": "Causes of hypopituitarism: sellar masses, surgery/radiation, trauma, infarction/hemorrhage, infection, infiltrative disease, autoimmune hypophysitis, and congenital/genetic defects.\n\nANCHORS:\n- Statue on the \"Hypo-Pit\" pedestal in a ruined museum = **Hypopituitarism**\n- Cracked, caved-in stone arch = **Sellar masses (pituitary adenoma, craniopharyngioma, cysts)**\n- Robot firing a laser at the arch = **Iatrogenic: transsphenoidal surgery or cranial irradiation**\n- Wrecked boxing ring with torn ropes = **Traumatic brain injury (stalk section)**\n- Valve bursting with dark red fluid = **Infarction/hemorrhage: pituitary apoplexy or Sheehan syndrome (postpartum)**\n- Moldy corner with a collapsed hazmat suit = **Infection (abscess, TB, fungal)**\n- Shelves caked in stone dust = **Infiltrative disease (hemochromatosis, sarcoidosis, Langerhans cell histiocytosis)**\n- Knight's shield hit by swarming antibodies = **Lymphocytic hypophysitis (pregnancy, checkpoint inhibitors)**\n- Torn blueprint scroll = **Congenital/genetic (transcription factor mutations, Kallmann, septo-optic dysplasia)**\n"
+  },
+  "images/endo/prop1-mutation.png": {
+    "title": "PROP1 Mutation — The Prop-Plane Exhibit",
+    "tags": [
+      "PROP1",
+      "combined pituitary hormone deficiency",
+      "CPHD",
+      "congenital hypopituitarism",
+      "GH deficiency",
+      "TSH deficiency",
+      "prolactin deficiency",
+      "gonadotropin deficiency",
+      "autosomal recessive",
+      "endo"
+    ],
+    "notes": "PROP1 mutation: most common genetic cause of combined pituitary hormone deficiency; autosomal recessive loss of GH, PRL, TSH, and LH/FSH (unlike PIT1, which spares gonadotropins). ACTH is usually spared early but may fail later in life.\n\nANCHORS:\n- Giant propeller plane in the museum hall = **PROP1 mutation**\n- Stone arch above the hall = **Congenital combined anterior pituitary hormone deficiency**\n- Glowing \"GROW\" neon sign = **GH deficiency -> short stature**\n- Fountain of stacked milk bottles = **Prolactin deficiency (impaired lactation)**\n- Blue bow tie on the wall = **TSH deficiency -> central hypothyroidism**\n- Twin torches in a V = **LH/FSH deficiency -> delayed puberty, hypogonadism**\n- Shivering ice sculpture = **Growth failure, cold intolerance, absent puberty**\n- Monitor showing a flat line = **Low GH, IGF-1, TSH, PRL, LH, FSH (ACTH usually normal at first)**\n- Cloaked figure hiding behind a pillar = **Autosomal recessive inheritance**\n"
   }
 }
