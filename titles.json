@@ -1240,5 +1240,18 @@
       "endo"
     ],
     "notes": "PROP1 mutation: most common genetic cause of combined pituitary hormone deficiency; autosomal recessive loss of GH, PRL, TSH, and LH/FSH (unlike PIT1, which spares gonadotropins). ACTH is usually spared early but may fail later in life.\n\nANCHORS:\n- Giant propeller plane in the museum hall = **PROP1 mutation**\n- Stone arch above the hall = **Congenital combined anterior pituitary hormone deficiency**\n- Glowing \"GROW\" neon sign = **GH deficiency -> short stature**\n- Fountain of stacked milk bottles = **Prolactin deficiency (impaired lactation)**\n- Blue bow tie on the wall = **TSH deficiency -> central hypothyroidism**\n- Twin torches in a V = **LH/FSH deficiency -> delayed puberty, hypogonadism**\n- Shivering ice sculpture = **Growth failure, cold intolerance, absent puberty**\n- Monitor showing a flat line = **Low GH, IGF-1, TSH, PRL, LH, FSH (ACTH usually normal at first)**\n- Cloaked figure hiding behind a pillar = **Autosomal recessive inheritance**\n"
+  },
+  "images/endo/orforglipron.png": {
+    "title": "Orforglipron — The Ork-Forge",
+    "tags": [
+      "orforglipron",
+      "oral GLP-1 receptor agonist",
+      "non-peptide",
+      "small molecule",
+      "obesity",
+      "type 2 diabetes",
+      "endo"
+    ],
+    "notes": "Orforglipron: oral, small-molecule (non-peptide) GLP-1 receptor agonist taken once daily as a tablet, no injection; used for weight loss and type 2 diabetes; GI side effects during titration.\n\nANCHORS:\n- Ork working a blazing forge = **Orforglipron (oral non-peptide GLP-1 RA)**\n- Padlock chained to the anvil = **Once-daily oral tablet; no injection pen**\n- \"Caution: Heavy Weight\" sign = **Substantial weight loss; treats type 2 diabetes**\n- Tipped \"Upset Tummy\" bottles leaking = **GI effects: nausea, vomiting, diarrhea (mostly during titration)**\n"
   }
 }
